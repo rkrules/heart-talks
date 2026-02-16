@@ -1,0 +1,280 @@
+{
+  "terms": [
+    {
+      "term": "Apolipoprotein",
+      "definition": "A protein that binds with lipids (fats) to form lipoproteins, which transport cholesterol and other fats through the bloodstream.",
+      "relatedChapters": [2],
+      "category": "Lipids & Cholesterol"
+    },
+    {
+      "term": "Atherosclerosis",
+      "definition": "A condition where fatty deposits (plaque) build up in the artery walls, narrowing the arteries and restricting blood flow to organs.",
+      "relatedChapters": [1, 12, 16, 20],
+      "category": "Heart Disease"
+    },
+    {
+      "term": "Arrhythmia",
+      "definition": "An irregular heartbeat that occurs when the electrical signals that coordinate heartbeats don't work properly.",
+      "relatedChapters": [46],
+      "category": "Heart Conditions"
+    },
+    {
+      "term": "Aortic Valve",
+      "definition": "The valve that controls blood flow from the left ventricle into the aorta, the main artery that carries blood to the body.",
+      "relatedChapters": [2, 43],
+      "category": "Heart Anatomy"
+    },
+    {
+      "term": "Atrial Fibrillation",
+      "definition": "An irregular and often rapid heart rhythm that can lead to blood clots in the heart and increase stroke risk.",
+      "relatedChapters": [46],
+      "category": "Heart Conditions"
+    },
+    {
+      "term": "BMI (Body Mass Index)",
+      "definition": "A measure of body fat based on height and weight. Calculated as weight in kilograms divided by height in meters squared.",
+      "relatedChapters": [6, 10],
+      "category": "Measurements"
+    },
+    {
+      "term": "Blood Pressure",
+      "definition": "The force of blood pushing against artery walls as the heart pumps blood. Measured in millimeters of mercury (mmHg).",
+      "relatedChapters": [45, 48],
+      "category": "Measurements"
+    },
+    {
+      "term": "Calcium Score",
+      "definition": "A measurement of calcium buildup in coronary arteries using CT scanning, indicating the presence and extent of coronary artery disease.",
+      "relatedChapters": [1, 40],
+      "category": "Diagnostic Tests"
+    },
+    {
+      "term": "Cholesterol",
+      "definition": "A waxy, fat-like substance found in all cells of the body. The body needs cholesterol to make hormones, vitamin D, and substances that help digest food.",
+      "relatedChapters": [2, 3, 12, 13, 23],
+      "category": "Lipids & Cholesterol"
+    },
+    {
+      "term": "Coronary Artery Disease",
+      "definition": "A condition in which the major blood vessels that supply the heart with blood, oxygen, and nutrients become damaged or diseased, usually due to plaque buildup.",
+      "relatedChapters": [1, 16, 17, 40],
+      "category": "Heart Disease"
+    },
+    {
+      "term": "CT Scan (Computed Tomography)",
+      "definition": "An imaging procedure that uses X-rays and computer processing to create detailed pictures of the inside of the body.",
+      "relatedChapters": [1, 40],
+      "category": "Diagnostic Tests"
+    },
+    {
+      "term": "DASH Diet",
+      "definition": "Dietary Approaches to Stop Hypertension - an eating plan designed to help lower blood pressure through nutrition.",
+      "relatedChapters": [32, 48],
+      "category": "Diet & Nutrition"
+    },
+    {
+      "term": "Diabetes",
+      "definition": "A chronic condition that affects how the body processes blood sugar (glucose), leading to elevated blood sugar levels.",
+      "relatedChapters": [10, 18, 50],
+      "category": "Metabolic Conditions"
+    },
+    {
+      "term": "Diastolic Pressure",
+      "definition": "The bottom number in a blood pressure reading, measuring the pressure in arteries when the heart rests between beats.",
+      "relatedChapters": [45],
+      "category": "Measurements"
+    },
+    {
+      "term": "ECG/EKG (Electrocardiogram)",
+      "definition": "A test that records the electrical activity of the heart over a period of time using electrodes placed on the skin.",
+      "relatedChapters": [17, 46],
+      "category": "Diagnostic Tests"
+    },
+    {
+      "term": "Emergency Medical Services",
+      "definition": "Healthcare services provided in response to medical emergencies, including ambulance transport and immediate medical care.",
+      "relatedChapters": [28],
+      "category": "Emergency Care"
+    },
+    {
+      "term": "HDL (High-Density Lipoprotein)",
+      "definition": "Often called 'good cholesterol' - HDL picks up excess cholesterol in the blood and carries it back to the liver for disposal.",
+      "relatedChapters": [2, 3, 13, 23],
+      "category": "Lipids & Cholesterol"
+    },
+    {
+      "term": "Heart Attack",
+      "definition": "A medical emergency that occurs when blood flow to part of the heart is blocked, usually by a blood clot, causing damage to the heart muscle.",
+      "relatedChapters": [17, 28],
+      "category": "Heart Disease"
+    },
+    {
+      "term": "Heart Murmur",
+      "definition": "An unusual sound heard during a heartbeat, often caused by turbulent blood flow through the heart valves.",
+      "relatedChapters": [43],
+      "category": "Heart Conditions"
+    },
+    {
+      "term": "Hypertension",
+      "definition": "High blood pressure - a condition in which the force of blood against artery walls is consistently too high.",
+      "relatedChapters": [45, 48],
+      "category": "Heart Conditions"
+    },
+    {
+      "term": "Insulin Resistance",
+      "definition": "A condition in which cells don't respond properly to insulin, leading to elevated blood sugar levels and increased diabetes risk.",
+      "relatedChapters": [10, 50],
+      "category": "Metabolic Conditions"
+    },
+    {
+      "term": "Intermittent Fasting",
+      "definition": "An eating pattern that cycles between periods of fasting and eating, which may have cardiovascular and metabolic benefits.",
+      "relatedChapters": [8],
+      "category": "Diet & Nutrition"
+    },
+    {
+      "term": "Kidney Function",
+      "definition": "The ability of the kidneys to filter waste products from the blood and regulate fluid balance, closely linked to heart health.",
+      "relatedChapters": [18],
+      "category": "Related Conditions"
+    },
+    {
+      "term": "LDL (Low-Density Lipoprotein)",
+      "definition": "Often called 'bad cholesterol' - LDL carries cholesterol to arteries where it may accumulate as plaque.",
+      "relatedChapters": [2, 3, 12, 23],
+      "category": "Lipids & Cholesterol"
+    },
+    {
+      "term": "Lipoprotein(a)",
+      "definition": "A type of LDL cholesterol particle that can accelerate atherosclerosis and increase heart disease risk.",
+      "relatedChapters": [2],
+      "category": "Lipids & Cholesterol"
+    },
+    {
+      "term": "Metabolic Syndrome",
+      "definition": "A cluster of conditions including high blood pressure, high blood sugar, excess abdominal fat, and abnormal cholesterol levels that increase heart disease risk.",
+      "relatedChapters": [10, 51],
+      "category": "Metabolic Conditions"
+    },
+    {
+      "term": "MRI (Magnetic Resonance Imaging)",
+      "definition": "An imaging technique that uses magnetic fields and radio waves to create detailed images of organs and tissues.",
+      "relatedChapters": [40],
+      "category": "Diagnostic Tests"
+    },
+    {
+      "term": "Myocardial Infarction",
+      "definition": "The medical term for a heart attack - death of heart muscle tissue due to lack of blood supply.",
+      "relatedChapters": [17, 28],
+      "category": "Heart Disease"
+    },
+    {
+      "term": "Omega-3 Fatty Acids",
+      "definition": "Essential fats that have anti-inflammatory properties and cardiovascular benefits, found in fish, nuts, and seeds.",
+      "relatedChapters": [23, 29],
+      "category": "Diet & Nutrition"
+    },
+    {
+      "term": "Panic Attack",
+      "definition": "A sudden episode of intense fear or anxiety that triggers severe physical reactions, sometimes mistaken for heart problems.",
+      "relatedChapters": [46],
+      "category": "Related Conditions"
+    },
+    {
+      "term": "Plaque",
+      "definition": "A buildup of cholesterol, fat, calcium, and other substances in the artery walls that can restrict blood flow.",
+      "relatedChapters": [1, 2, 12, 16],
+      "category": "Heart Disease"
+    },
+    {
+      "term": "Resveratrol",
+      "definition": "A compound found in red wine, grapes, and berries that may have cardiovascular protective effects.",
+      "relatedChapters": [21],
+      "category": "Diet & Nutrition"
+    },
+    {
+      "term": "Saturated Fat",
+      "definition": "A type of dietary fat that is solid at room temperature and can raise LDL cholesterol levels when consumed in excess.",
+      "relatedChapters": [23, 32],
+      "category": "Diet & Nutrition"
+    },
+    {
+      "term": "Silent Heart Attack",
+      "definition": "A heart attack that occurs with minimal or no symptoms, often going unrecognized until discovered later.",
+      "relatedChapters": [17],
+      "category": "Heart Disease"
+    },
+    {
+      "term": "Statin",
+      "definition": "A class of medications that lower cholesterol levels by blocking an enzyme the liver needs to produce cholesterol.",
+      "relatedChapters": [3, 12],
+      "category": "Medications"
+    },
+    {
+      "term": "Stress Test",
+      "definition": "A diagnostic test that measures heart function during physical activity or medication-induced stress.",
+      "relatedChapters": [40],
+      "category": "Diagnostic Tests"
+    },
+    {
+      "term": "Stroke",
+      "definition": "A medical emergency that occurs when blood flow to the brain is interrupted, causing brain cells to die.",
+      "relatedChapters": [21, 48],
+      "category": "Related Conditions"
+    },
+    {
+      "term": "Systolic Pressure",
+      "definition": "The top number in a blood pressure reading, measuring the pressure in arteries when the heart beats.",
+      "relatedChapters": [45],
+      "category": "Measurements"
+    },
+    {
+      "term": "Triglycerides",
+      "definition": "A type of fat found in the blood that, when elevated, can increase the risk of heart disease.",
+      "relatedChapters": [16],
+      "category": "Lipids & Cholesterol"
+    },
+    {
+      "term": "Unsaturated Fat",
+      "definition": "A healthier type of dietary fat that is liquid at room temperature and can help lower LDL cholesterol.",
+      "relatedChapters": [23, 32],
+      "category": "Diet & Nutrition"
+    },
+    {
+      "term": "Ventricular Septal Defect",
+      "definition": "A hole in the wall between the heart's two lower chambers (ventricles), often present from birth.",
+      "relatedChapters": [43],
+      "category": "Heart Conditions"
+    },
+    {
+      "term": "Vertigo",
+      "definition": "A sensation of spinning or dizziness, which can sometimes be related to cardiovascular issues.",
+      "relatedChapters": [53],
+      "category": "Related Conditions"
+    },
+    {
+      "term": "Visceral Fat",
+      "definition": "Deep abdominal fat that surrounds internal organs and is strongly linked to cardiovascular disease risk.",
+      "relatedChapters": [6, 10],
+      "category": "Body Composition"
+    },
+    {
+      "term": "Waist Circumference",
+      "definition": "A measurement around the abdomen used to assess visceral fat and metabolic disease risk.",
+      "relatedChapters": [6],
+      "category": "Measurements"
+    },
+    {
+      "term": "Whole Grains",
+      "definition": "Grains that contain all parts of the grain kernel and provide fiber, vitamins, and minerals beneficial for heart health.",
+      "relatedChapters": [50],
+      "category": "Diet & Nutrition"
+    },
+    {
+      "term": "Yoga",
+      "definition": "A mind-body practice combining physical postures, breathing techniques, and meditation that may benefit cardiovascular health.",
+      "relatedChapters": [26],
+      "category": "Lifestyle"
+    }
+  ]
+}

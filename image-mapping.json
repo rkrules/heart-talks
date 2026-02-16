@@ -1,0 +1,102 @@
+{
+  "chapter1": {
+    "images": [
+      {
+        "src": "images/calcium-heart.jpg",
+        "alt": "Heart anatomy showing coronary arteries",
+        "caption": "Coronary arteries where calcium deposits can build up",
+        "position": "after-h3"
+      }
+    ]
+  },
+  "chapter6": {
+    "images": [
+      {
+        "src": "images/waist-measurement.jpg",
+        "alt": "Person measuring waist circumference",
+        "caption": "Proper waist measurement technique",
+        "position": "after-h3"
+      }
+    ]
+  },
+  "chapter8": {
+    "images": [
+      {
+        "src": "images/intermittent-fasting.jpg",
+        "alt": "Clock showing fasting and eating windows",
+        "caption": "Time-restricted eating pattern",
+        "position": "after-h3"
+      }
+    ]
+  },
+  "chapter13": {
+    "images": [
+      {
+        "src": "images/hdl-cholesterol.jpg",
+        "alt": "HDL and LDL cholesterol illustration",
+        "caption": "Understanding good (HDL) vs bad (LDL) cholesterol",
+        "position": "after-h3"
+      }
+    ]
+  },
+  "chapter23": {
+    "images": [
+      {
+        "src": "images/cooking-oils.jpg",
+        "alt": "Various heart-healthy cooking oils",
+        "caption": "Heart-healthy oil options",
+        "position": "after-h3"
+      }
+    ]
+  },
+  "chapter26": {
+    "images": [
+      {
+        "src": "images/yoga-tai-chi.jpg",
+        "alt": "Person practicing yoga or tai chi",
+        "caption": "Mind-body exercises for heart health",
+        "position": "after-h3"
+      }
+    ]
+  },
+  "chapter29": {
+    "images": [
+      {
+        "src": "images/plant-protein.jpg",
+        "alt": "Variety of plant-based protein sources",
+        "caption": "Plant protein foods for heart health",
+        "position": "after-h3"
+      }
+    ]
+  },
+  "chapter40": {
+    "images": [
+      {
+        "src": "images/ct-scan.jpg",
+        "alt": "CT scanner for cardiac imaging",
+        "caption": "CT scan technology for detecting coronary artery disease",
+        "position": "after-h3"
+      }
+    ]
+  },
+  "chapter45": {
+    "images": [
+      {
+        "src": "images/blood-pressure.jpg",
+        "alt": "Blood pressure monitor showing readings",
+        "caption": "Understanding blood pressure numbers",
+        "position": "after-h3"
+      }
+    ]
+  },
+  "chapter50": {
+    "images": [
+      {
+        "src": "images/healthy-carbs.jpg",
+        "alt": "Healthy carbohydrate food sources",
+        "caption": "Choosing complex carbohydrates",
+        "position": "after-h3"
+      }
+    ]
+  }
+}

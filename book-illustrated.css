@@ -1,0 +1,166 @@
+/* ============================================
+   Heart Talk Book - Illustrated Edition Styles
+
+   This extends book.css with image-specific styling
+   ============================================ */
+
+/* Import base styles */
+@import url('book.css');
+
+/* ============================================
+   Edition Badge
+   ============================================ */
+
+.edition-badge {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 16px;
+    background: #f0f8ff;
+    border: 1px solid var(--accent-color);
+    border-radius: 20px;
+    font-size: 0.9em;
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+/* ============================================
+   Chapter Images
+   ============================================ */
+
+.chapter-image {
+    margin: 40px 0;
+    text-align: center;
+    page-break-inside: avoid;
+}
+
+.chapter-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px var(--shadow-medium);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.chapter-image img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 20px var(--shadow-strong);
+}
+
+.chapter-image figcaption {
+    font-size: 0.9em;
+    color: var(--text-secondary);
+    font-style: italic;
+    margin-top: 12px;
+    line-height: 1.5;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Responsive image sizing */
+@media (max-width: 767px) {
+    .chapter-image {
+        margin: 30px 0;
+    }
+
+    .chapter-image img {
+        border-radius: 6px;
+    }
+
+    .chapter-image figcaption {
+        font-size: 0.85em;
+        padding: 0 10px;
+    }
+}
+
+/* ============================================
+   Version Switcher
+   ============================================ */
+
+.version-note {
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: var(--text-secondary);
+}
+
+.version-note a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 600;
+    transition: color 0.2s ease;
+}
+
+.version-note a:hover {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* ============================================
+   TOC Image Indicators
+   ============================================ */
+
+.toc-item .toc-number:has-text("📷") {
+    color: var(--accent-color);
+    font-weight: 600;
+}
+
+/* ============================================
+   Print Styles (hide images for faster printing)
+   ============================================ */
+
+@media print {
+    .chapter-image {
+        page-break-inside: avoid;
+        margin: 20px 0;
+    }
+
+    .chapter-image img {
+        max-width: 100%;
+        box-shadow: none;
+    }
+
+    .edition-badge,
+    .version-note {
+        display: none;
+    }
+}
+
+/* ============================================
+   Performance: Image Loading States
+   ============================================ */
+
+.chapter-image img[loading="lazy"] {
+    background: #f5f5f5;
+    min-height: 300px;
+}
+
+/* ============================================
+   Accessibility Enhancements
+   ============================================ */
+
+.chapter-image img:focus {
+    outline: 3px solid var(--accent-color);
+    outline-offset: 4px;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    .chapter-image img {
+        border: 2px solid var(--text-primary);
+    }
+
+    .chapter-image figcaption {
+        color: var(--text-primary);
+    }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+    .chapter-image img {
+        transition: none;
+    }
+
+    .chapter-image img:hover {
+        transform: none;
+    }
+}

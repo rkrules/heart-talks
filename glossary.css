@@ -1,0 +1,259 @@
+/* ============================================
+   Heart Talk - Medical Glossary Styles
+   ============================================ */
+
+/* Glossary Header */
+.glossary-header {
+    text-align: center;
+    padding: 40px 20px;
+    border-bottom: 2px solid var(--border-color);
+}
+
+.glossary-header h1 {
+    font-size: 2.5em;
+    color: var(--text-primary);
+    margin-bottom: 10px;
+}
+
+.glossary-subtitle {
+    font-size: 1.1em;
+    color: var(--text-secondary);
+    margin-top: 10px;
+    font-style: italic;
+}
+
+/* Alphabet Navigation */
+.alphabet-nav {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    background: var(--page-bg);
+    border-bottom: 1px solid var(--border-color);
+    z-index: 100;
+    box-shadow: 0 2px 8px var(--shadow-light);
+}
+
+.alphabet-link {
+    padding: 8px 12px;
+    text-decoration: none;
+    color: var(--accent-color);
+    font-weight: 600;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    font-size: 1em;
+    min-width: 36px;
+    text-align: center;
+}
+
+.alphabet-link:hover {
+    background: #f5f5f5;
+    transform: translateY(-2px);
+}
+
+.alphabet-link:active {
+    transform: translateY(0);
+}
+
+/* Glossary Content */
+.glossary-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.glossary-section {
+    margin-bottom: 60px;
+}
+
+.glossary-letter {
+    font-size: 2.5em;
+    color: var(--accent-color);
+    margin: 0 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid var(--accent-color);
+    font-weight: 700;
+}
+
+.glossary-list {
+    margin: 0;
+    padding: 0;
+}
+
+/* Glossary Entry */
+.glossary-entry {
+    margin-bottom: 24px;
+    padding: 16px;
+    border-left: 3px solid var(--border-color);
+    transition: all 0.2s ease;
+    background: transparent;
+}
+
+.glossary-entry:hover {
+    border-left-color: var(--accent-color);
+    background: #fafafa;
+    padding-left: 20px;
+}
+
+.glossary-entry:target {
+    border-left-color: var(--accent-color);
+    background: #fff8dc;
+    animation: highlight 2s ease;
+}
+
+@keyframes highlight {
+    0% { background: #fff8dc; }
+    100% { background: transparent; }
+}
+
+.glossary-term {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin: 0 0 8px;
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+.glossary-definition {
+    line-height: 1.7;
+    color: var(--text-primary);
+    margin: 0;
+    font-size: 1.05em;
+}
+
+/* Related Chapters */
+.glossary-chapters {
+    margin-top: 12px;
+    padding-top: 12px;
+    border-top: 1px dashed var(--border-color);
+    font-size: 0.9em;
+    color: var(--text-secondary);
+}
+
+.glossary-chapters a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.glossary-chapters a:hover {
+    color: var(--text-primary);
+    text-decoration: underline;
+}
+
+/* Footer */
+.book-footer {
+    text-align: center;
+    padding: 40px 20px;
+    border-top: 2px solid var(--border-color);
+    margin-top: 60px;
+}
+
+.book-footer a {
+    color: var(--accent-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.book-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Mobile Responsive */
+@media (max-width: 767px) {
+    .glossary-header h1 {
+        font-size: 2em;
+    }
+
+    .glossary-subtitle {
+        font-size: 1em;
+    }
+
+    .alphabet-nav {
+        gap: 6px;
+        padding: 15px 10px;
+    }
+
+    .alphabet-link {
+        padding: 6px 10px;
+        font-size: 0.9em;
+        min-width: 32px;
+    }
+
+    .glossary-content {
+        padding: 30px 15px;
+    }
+
+    .glossary-letter {
+        font-size: 2em;
+    }
+
+    .glossary-term {
+        font-size: 1.2em;
+    }
+
+    .glossary-definition {
+        font-size: 1em;
+    }
+
+    .glossary-entry {
+        padding: 12px;
+    }
+
+    .glossary-entry:hover {
+        padding-left: 16px;
+    }
+}
+
+/* Print Styles */
+@media print {
+    .alphabet-nav {
+        position: static;
+        box-shadow: none;
+        border: none;
+        page-break-after: always;
+    }
+
+    .glossary-entry {
+        page-break-inside: avoid;
+    }
+
+    .glossary-section {
+        page-break-after: always;
+    }
+
+    .glossary-letter {
+        page-break-after: avoid;
+    }
+}
+
+/* High Contrast Mode */
+@media (prefers-contrast: high) {
+    .glossary-entry {
+        border-left-width: 4px;
+    }
+
+    .alphabet-link {
+        border: 2px solid currentColor;
+    }
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+    .glossary-entry,
+    .alphabet-link {
+        transition: none;
+    }
+
+    .alphabet-link:hover {
+        transform: none;
+    }
+
+    @keyframes highlight {
+        0%, 100% { background: #fff8dc; }
+    }
+}
