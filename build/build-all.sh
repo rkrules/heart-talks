@@ -25,10 +25,18 @@ if [ $? -ne 0 ]; then
 fi
 echo ""
 
-echo "🖼️  Step 3/3: Generating Illustrated Website..."
+echo "🖼️  Step 3/4: Generating Illustrated Website..."
 node build/build-site-illustrated.js
 if [ $? -ne 0 ]; then
     echo "❌ Illustrated site generation failed!"
+    exit 1
+fi
+echo ""
+
+echo "📄 Step 4/4: Generating PDFs..."
+node build/generate-pdfs.js
+if [ $? -ne 0 ]; then
+    echo "❌ PDF generation failed!"
     exit 1
 fi
 echo ""
@@ -40,6 +48,7 @@ echo "   • index.html + index-illustrated.html"
 echo "   • glossary.html"
 echo "   • 63 chapters (text + illustrated)"
 echo "   • search-index.json"
+echo "   • 64 PDFs (63 chapters + complete book)"
 echo ""
 echo "🚀 To deploy: ./build/deploy.sh"
 echo "🧪 To test locally: ./build/test-locally.sh"

@@ -305,6 +305,15 @@ chapters.forEach((chapter, index) => {
             ${htmlContent}
         </article>
 
+        <div class="chapter-actions">
+            <button class="print-button" onclick="window.print()">
+                🖨️ Print Chapter
+            </button>
+            <a href="../pdfs/chapter${index + 1}.pdf" class="pdf-download" download>
+                📥 Download PDF
+            </a>
+        </div>
+
         <nav class="chapter-navigation">
             ${prevChapter ? `<a href="chapter${index}.html" class="nav-button prev-button">
                 <span class="nav-label">Previous</span>
@@ -368,6 +377,28 @@ const indexHTML = `<!DOCTYPE html>
                 </a>`).join('')}
             </div>
         </main>
+
+        <section class="download-section">
+            <h2>Download Options</h2>
+            <div class="download-grid">
+                <div class="download-card">
+                    <h3>📚 Complete Book</h3>
+                    <p>All 63 chapters + Medical Glossary</p>
+                    <p class="file-info">~500 pages, professional PDF</p>
+                    <a href="pdfs/heart-talk-complete.pdf" class="download-btn" download>
+                        Download Complete Book
+                    </a>
+                </div>
+                <div class="download-card">
+                    <h3>📖 Individual Chapters</h3>
+                    <p>Download specific chapters as needed</p>
+                    <p class="file-info">Browse and download any chapter</p>
+                    <a href="#table-of-contents" class="browse-btn">
+                        Browse Chapters →
+                    </a>
+                </div>
+            </div>
+        </section>
 
         <footer class="book-footer">
             <p>${chapters.length} chapters of heart health wisdom · <a href="glossary.html">Medical Glossary</a></p>

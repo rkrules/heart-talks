@@ -1,0 +1,17 @@
+{
+  "name": "heart-talk-website",
+  "version": "2.0.0",
+  "description": "Heart Talk: Comprehensive heart health education website by Dr. Keshava Aithal",
+  "scripts": {
+    "build": "sh build/build-all.sh",
+    "build:pdfs": "node build/generate-pdfs.js",
+    "deploy": "sh build/deploy.sh",
+    "test": "sh build/test-locally.sh"
+  },
+  "devDependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "private": true,
+  "author": "Dr. Keshava Aithal",
+  "license": "UNLICENSED"
+}

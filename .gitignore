@@ -6,6 +6,7 @@ index-illustrated.html
 glossary.html
 search-index.json
 temp-*.html
+pdfs/
 
 # System files
 .DS_Store

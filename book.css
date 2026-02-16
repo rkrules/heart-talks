@@ -426,27 +426,248 @@ body {
 }
 
 /* ============================================
-   Print Styles
+   PDF Download & Print Actions
+   ============================================ */
+
+.chapter-actions {
+    display: flex;
+    gap: 12px;
+    margin: 30px 0;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 767px) {
+    .chapter-actions {
+        flex-direction: column;
+    }
+}
+
+.print-button,
+.pdf-download {
+    flex: 1;
+    min-width: 150px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: all 0.2s;
+    font-family: var(--sans);
+    font-size: 0.95em;
+}
+
+.print-button {
+    background: white;
+    border: 2px solid var(--border-color);
+    color: var(--text-primary);
+}
+
+.print-button:hover {
+    background: #f9f9f9;
+    border-color: var(--accent-color);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px var(--shadow-medium);
+}
+
+.pdf-download {
+    background: var(--accent-color);
+    color: white;
+}
+
+.pdf-download:hover {
+    background: #b03f3f;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px var(--shadow-medium);
+}
+
+/* Download Section on Index Page */
+.download-section {
+    margin: 60px 0;
+    padding: 40px;
+    background: linear-gradient(135deg, #f5f5f5 0%, #fafafa 100%);
+    border-radius: 12px;
+}
+
+.download-section h2 {
+    font-size: 2em;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 40px;
+    color: var(--text-primary);
+}
+
+.download-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+@media (max-width: 767px) {
+    .download-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+.download-card {
+    background: white;
+    padding: 40px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px var(--shadow-light);
+    text-align: center;
+    transition: all 0.3s;
+}
+
+.download-card:hover {
+    box-shadow: 0 8px 24px var(--shadow-medium);
+    transform: translateY(-4px);
+}
+
+.download-card h3 {
+    font-size: 1.5em;
+    margin-bottom: 16px;
+    color: var(--text-primary);
+}
+
+.download-card p {
+    color: var(--text-secondary);
+    margin-bottom: 12px;
+}
+
+.file-info {
+    font-size: 0.85em;
+    color: var(--accent-color);
+    font-weight: 600;
+    font-family: var(--sans);
+}
+
+.download-btn,
+.browse-btn {
+    display: inline-block;
+    padding: 14px 28px;
+    background: var(--accent-color);
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.3s;
+    margin-top: 20px;
+    font-family: var(--sans);
+}
+
+.download-btn:hover,
+.browse-btn:hover {
+    background: #b03f3f;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px var(--shadow-medium);
+}
+
+.browse-btn {
+    background: #666;
+}
+
+.browse-btn:hover {
+    background: #555;
+}
+
+/* ============================================
+   Print Styles - Enhanced for PDF Export
    ============================================ */
 
 @media print {
+    /* Page setup for A4 */
+    @page {
+        size: A4;
+        margin: 1in 1in 1in 1in;
+    }
+
     body {
         background: white;
+        font-size: 12pt;
+        line-height: 1.6;
     }
 
     .book-container {
         box-shadow: none;
         max-width: 100%;
+        padding: 0;
+        margin: 0;
     }
 
-    .chapter-navigation,
-    .chapter-header,
-    .book-footer {
-        display: none;
+    /* Chapter page breaks */
+    .chapter-content {
+        page-break-before: always;
     }
 
-    .chapter-content p {
+    .chapter-title {
+        page-break-after: avoid;
+        font-size: 20pt;
+        margin-bottom: 0.5in;
+    }
+
+    /* Prevent breaks in paragraphs */
+    p, blockquote {
+        page-break-inside: avoid;
+        orphans: 3;
+        widows: 3;
         text-align: left;
+    }
+
+    /* Headers stay with content */
+    h1, h2, h3 {
+        page-break-after: avoid;
+    }
+
+    /* Lists keep together */
+    ul, ol {
+        page-break-inside: avoid;
+    }
+
+    /* Signature stays together */
+    hr + p {
+        page-break-before: avoid;
+    }
+
+    /* Remove interactive elements */
+    .search-button,
+    .chapter-navigation,
+    .chapter-select,
+    .nav-button,
+    .book-footer,
+    .chapter-header,
+    .chapter-actions,
+    .print-button,
+    .pdf-download,
+    .download-section {
+        display: none !important;
+    }
+
+    /* Show link URLs in footnotes */
+    a[href]:after {
+        content: " (" attr(href) ")";
+        font-size: 10pt;
+        color: #666;
+    }
+
+    /* Don't show internal navigation URLs */
+    a[href^="#"]:after,
+    a[href^="/"]:after,
+    .home-link:after,
+    .glossary-link:after {
+        content: "";
+    }
+
+    /* Optimize drop cap for print */
+    .chapter-content p:first-of-type::first-letter {
+        font-size: 3em;
     }
 }
 
