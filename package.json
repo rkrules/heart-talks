@@ -5,11 +5,14 @@
   "scripts": {
     "build": "sh build/build-all.sh",
     "build:pdfs": "node build/generate-pdfs.js",
+    "translate": "node build/translate-to-kannada.js",
+    "translate:glossary": "node build/translate-glossary.js",
     "deploy": "sh build/deploy.sh",
     "test": "sh build/test-locally.sh"
   },
   "devDependencies": {
-    "puppeteer": "^21.0.0"
+    "puppeteer": "^21.0.0",
+    "@vitalets/google-translate-api": "^9.2.0"
   },
   "private": true,
   "author": "Dr. Keshava Aithal",
