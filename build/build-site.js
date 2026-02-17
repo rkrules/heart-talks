@@ -316,7 +316,7 @@ chapters.forEach((chapter, index) => {
             <button class="print-button" onclick="window.print()">
                 🖨️ Print Chapter
             </button>
-            <a href="../pdfs/chapter${index + 1}.pdf" class="pdf-download" download>
+            <a href="https://raw.githubusercontent.com/rkrules/heart-talks/main/pdfs/chapter${index + 1}.pdf" class="pdf-download" download="chapter${index + 1}.pdf">
                 📥 Download PDF
             </a>
         </div>
@@ -399,7 +399,7 @@ const indexHTML = `<!DOCTYPE html>
                     <h3>📚 Complete Book</h3>
                     <p>All 63 chapters + Medical Glossary</p>
                     <p class="file-info">~500 pages, professional PDF</p>
-                    <a href="pdfs/heart-talk-complete.pdf" class="download-btn" download>
+                    <a href="https://raw.githubusercontent.com/rkrules/heart-talks/main/pdfs/heart-talk-complete.pdf" class="download-btn" download="heart-talk-complete.pdf">
                         Download Complete Book
                     </a>
                 </div>
