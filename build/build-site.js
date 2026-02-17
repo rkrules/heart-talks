@@ -296,11 +296,13 @@ chapters.forEach((chapter, index) => {
 <body>
     <div class="book-container">
         <header class="chapter-header">
+            <!-- Language toggle hidden until Kannada translation is 100% complete
             <nav class="language-toggle">
                 <a href="../index.html" class="lang-link active">English</a>
                 <span class="language-separator">|</span>
                 <a href="../index-kn.html" class="lang-link">ಕನ್ನಡ (Kannada)</a>
             </nav>
+            -->
             <a href="../index.html" class="home-link">← Table of Contents</a>
             <div class="chapter-number">Heart Talk #${chapter.number}</div>
         </header>
@@ -367,11 +369,13 @@ const indexHTML = `<!DOCTYPE html>
 <body>
     <div class="book-container">
         <header class="book-header">
+            <!-- Language toggle hidden until Kannada translation is 100% complete
             <nav class="language-toggle">
                 <a href="index.html" class="lang-link active">English</a>
                 <span class="language-separator">|</span>
                 <a href="index-kn.html" class="lang-link">ಕನ್ನಡ (Kannada)</a>
             </nav>
+            -->
             <h1 class="book-title">${bookTitle}</h1>
             <p class="book-author">by ${author}</p>
             <p class="book-description">A comprehensive collection of heart health insights and cardiovascular care guidance</p>
