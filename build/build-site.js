@@ -303,6 +303,7 @@ chapters.forEach((chapter, index) => {
                 <a href="../index-kn.html" class="lang-link">ಕನ್ನಡ (Kannada)</a>
             </nav>
             -->
+            <a href="../glossary.html" class="glossary-link">📖 Glossary</a>
             <a href="../index.html" class="home-link">← Table of Contents</a>
             <div class="chapter-number">Heart Talk #${chapter.number}</div>
         </header>
@@ -322,23 +323,27 @@ chapters.forEach((chapter, index) => {
         </div>
 
         <nav class="chapter-navigation">
-            ${prevChapter ? `<a href="chapter${index}.html" class="nav-button prev-button">
-                <span class="nav-label">Previous</span>
-                <span class="nav-title">Heart Talk #${prevChapter.number}</span>
-            </a>` : '<div></div>'}
+            <div class="chapter-nav-arrows">
+                ${prevChapter ? `<a href="chapter${index}.html" class="nav-button prev-button">
+                    <span class="nav-label">← Previous</span>
+                    <span class="nav-title">Heart Talk #${prevChapter.number}: ${prevChapter.title}</span>
+                </a>` : '<div class="nav-button-placeholder"></div>'}
 
-            <select class="chapter-select" onchange="if(this.value) window.location.href=this.value">
-                <option value="">Jump to Chapter...</option>
-                ${chapters.map((ch, idx) => `
-                <option value="chapter${idx + 1}.html" ${idx === index ? 'selected' : ''}>
-                    Heart Talk #${ch.number}: ${ch.title}
-                </option>`).join('')}
-            </select>
+                ${nextChapter ? `<a href="chapter${index + 2}.html" class="nav-button next-button">
+                    <span class="nav-label">Next →</span>
+                    <span class="nav-title">Heart Talk #${nextChapter.number}: ${nextChapter.title}</span>
+                </a>` : '<div class="nav-button-placeholder"></div>'}
+            </div>
 
-            ${nextChapter ? `<a href="chapter${index + 2}.html" class="nav-button next-button">
-                <span class="nav-label">Next</span>
-                <span class="nav-title">Heart Talk #${nextChapter.number}</span>
-            </a>` : '<div></div>'}
+            <div class="chapter-nav-jump">
+                <select class="chapter-select" onchange="if(this.value) window.location.href=this.value">
+                    <option value="">Jump to chapter...</option>
+                    ${chapters.map((ch, idx) => `
+                    <option value="chapter${idx + 1}.html" ${idx === index ? 'selected' : ''}>
+                        #${ch.number}: ${ch.title}
+                    </option>`).join('')}
+                </select>
+            </div>
         </nav>
 
         <footer class="book-footer">
@@ -376,10 +381,16 @@ const indexHTML = `<!DOCTYPE html>
                 <a href="index-kn.html" class="lang-link">ಕನ್ನಡ (Kannada)</a>
             </nav>
             -->
+            <a href="glossary.html" class="glossary-link">📖 Medical Glossary</a>
             <h1 class="book-title">${bookTitle}</h1>
             <p class="book-author">by ${author}</p>
             <p class="book-description">A comprehensive collection of heart health insights and cardiovascular care guidance</p>
         </header>
+
+        <div class="index-actions">
+            <a href="glossary.html" class="glossary-link">📖 Medical Glossary</a>
+            <!-- Search button injected here by search.js on mobile -->
+        </div>
 
         <main class="table-of-contents">
             <h2>Table of Contents</h2>

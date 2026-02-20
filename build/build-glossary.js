@@ -44,6 +44,7 @@ const glossaryHTML = `<!DOCTYPE html>
             <a href="index.html" class="home-link">← Table of Contents</a>
             <h1>Medical Glossary</h1>
             <p class="glossary-subtitle">Quick reference guide to medical terms used throughout Heart Talk</p>
+            <p class="glossary-ai-note">⚠️ These definitions were generated with AI assistance and are intended for general educational purposes only. Always consult a qualified medical professional for medical advice.</p>
         </header>
 
         <nav class="alphabet-nav" aria-label="Jump to letter">

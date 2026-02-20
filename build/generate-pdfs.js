@@ -7,8 +7,8 @@
  * using Puppeteer (headless Chrome).
  *
  * Output:
- * - pdfs/chapter1.pdf through pdfs/chapter63.pdf (individual chapters)
- * - pdfs/heart-talk-complete.pdf (all chapters + glossary + cover + TOC)
+ * - downloads/chapter1.pdf through downloads/chapter63.pdf (individual chapters)
+ * - downloads/heart-talk-complete.pdf (all chapters + glossary + cover + TOC)
  */
 
 const puppeteer = require('puppeteer');
@@ -50,7 +50,7 @@ const PDF_OPTIONS = {
 function ensurePdfsDirectory() {
     if (!fs.existsSync(PDFS_DIR)) {
         fs.mkdirSync(PDFS_DIR, { recursive: true });
-        console.log(`✅ Created pdfs/ directory`);
+        console.log(`✅ Created downloads/ directory`);
     }
 }
 
@@ -189,23 +189,40 @@ async function generateCompleteBookPDF(browser) {
         </div>
 `;
 
-        // Add all chapters
+        // Add all chapters — extract content by stripping nav/header/footer from HTML
         for (let i = 1; i <= TOTAL_CHAPTERS; i++) {
             const chapterPath = path.join(CHAPTERS_DIR, `chapter${i}.html`);
             if (fs.existsSync(chapterPath)) {
                 const html = readFile(chapterPath);
+                const title = extractChapterTitle(html);
 
-                // Extract chapter content (skip header, footer, navigation)
-                const contentMatch = html.match(/<div class="chapter-content">([\s\S]*?)<\/div>\s*(?:<div class="chapter-navigation"|<footer|$)/);
+                // Extract the full article element which contains all chapter content
+                const articleMatch = html.match(/<article[^>]*class="chapter-content"[^>]*>([\s\S]*?)<\/article>/);
 
-                if (contentMatch) {
-                    const title = extractChapterTitle(html);
+                if (articleMatch) {
                     htmlContent += `
-        <div class="chapter-content" style="page-break-before: always;">
-            <h1 class="chapter-title">${title}</h1>
-            ${contentMatch[1]}
+        <div class="chapter-section" style="page-break-before: always;">
+            ${articleMatch[0]}
         </div>
 `;
+                } else {
+                    // Fallback: strip known non-content elements and use body content
+                    let stripped = html
+                        .replace(/<header[\s\S]*?<\/header>/gi, '')
+                        .replace(/<nav[\s\S]*?<\/nav>/gi, '')
+                        .replace(/<footer[\s\S]*?<\/footer>/gi, '')
+                        .replace(/<div class="chapter-actions"[\s\S]*?<\/div>/gi, '')
+                        .replace(/<script[\s\S]*?<\/script>/gi, '')
+                        .replace(/<link[^>]*>/gi, '');
+                    const bodyMatch = stripped.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
+                    if (bodyMatch) {
+                        htmlContent += `
+        <div class="chapter-section" style="page-break-before: always;">
+            <h1 class="chapter-title">${title}</h1>
+            ${bodyMatch[1]}
+        </div>
+`;
+                    }
                 }
             }
         }
@@ -213,13 +230,22 @@ async function generateCompleteBookPDF(browser) {
         // Add glossary if exists
         if (fs.existsSync(GLOSSARY_PATH)) {
             const glossaryHtml = readFile(GLOSSARY_PATH);
-            const glossaryMatch = glossaryHtml.match(/<div class="glossary-content">([\s\S]*?)<\/div>\s*(?:<footer|$)/);
 
-            if (glossaryMatch) {
+            // Strip nav/header/footer and grab main content
+            let stripped = glossaryHtml
+                .replace(/<header[\s\S]*?<\/header>/gi, '')
+                .replace(/<nav[\s\S]*?<\/nav>/gi, '')
+                .replace(/<footer[\s\S]*?<\/footer>/gi, '')
+                .replace(/<script[\s\S]*?<\/script>/gi, '')
+                .replace(/<link[^>]*>/gi, '');
+            const mainMatch = stripped.match(/<main[^>]*>([\s\S]*?)<\/main>/i)
+                || stripped.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
+
+            if (mainMatch) {
                 htmlContent += `
         <div class="glossary-appendix" style="page-break-before: always;">
             <h1 style="text-align: center; margin-bottom: 60px;">Medical Glossary</h1>
-            ${glossaryMatch[1]}
+            ${mainMatch[1]}
         </div>
 `;
             }
@@ -232,9 +258,13 @@ async function generateCompleteBookPDF(browser) {
 </html>
 `;
 
-        // Set content and generate PDF
-        await page.setContent(htmlContent, {
-            waitUntil: 'networkidle0'
+        // Write to a temp file and load via file:// URL (more reliable than setContent for large docs)
+        const tmpPath = path.join(PDFS_DIR, '_complete_tmp.html');
+        fs.writeFileSync(tmpPath, htmlContent, 'utf-8');
+
+        await page.goto(`file://${tmpPath}`, {
+            waitUntil: 'domcontentloaded',
+            timeout: 120000
         });
 
         const completePdfPath = path.join(PDFS_DIR, 'heart-talk-complete.pdf');
@@ -243,8 +273,12 @@ async function generateCompleteBookPDF(browser) {
             path: completePdfPath,
             displayHeaderFooter: true,
             headerTemplate: '<div style="font-size:10px; text-align:center; width:100%; color:#666;">Heart Talk Collection by Dr. Keshava Aithal</div>',
-            footerTemplate: '<div style="font-size:10px; text-align:center; width:100%; color:#666;"><span class="pageNumber"></span> / <span class="totalPages"></span></div>'
+            footerTemplate: '<div style="font-size:10px; text-align:center; width:100%; color:#666;"><span class="pageNumber"></span> / <span class="totalPages"></span></div>',
+            timeout: 120000
         });
+
+        // Clean up temp file
+        fs.unlinkSync(tmpPath);
 
         const stats = fs.statSync(completePdfPath);
         const sizeMB = (stats.size / (1024 * 1024)).toFixed(2);

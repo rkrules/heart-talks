@@ -47,9 +47,13 @@ class HeartTalkSearch {
         searchButton.innerHTML = '🔍 Search';
         searchButton.addEventListener('click', () => this.openSearchModal());
 
-        // Insert search button in header
+        // On homepage, insert search button into the action bar next to glossary
+        // On chapter pages, insert into the chapter header
+        const actionBar = document.querySelector('.index-actions');
         const header = document.querySelector('.chapter-header, .book-header');
-        if (header) {
+        if (actionBar) {
+            actionBar.appendChild(searchButton);
+        } else if (header) {
             header.appendChild(searchButton);
         }
 
