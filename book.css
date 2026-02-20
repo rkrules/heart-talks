@@ -829,14 +829,29 @@ body {
     right: 20px;
 }
 
+/* Hide header search button on mobile — mobile copy lives in .index-actions */
 @media (max-width: 767px) {
-    .chapter-header .search-button,
-    .book-header .search-button {
+    .book-header .search-button:not(.search-button-mobile) {
+        display: none;
+    }
+
+    .chapter-header .search-button {
         position: static;
         margin-top: 15px;
         width: 100%;
         max-width: 100%;
         justify-content: center;
+    }
+}
+
+/* Hide the mobile copy on desktop */
+.search-button-mobile {
+    display: none;
+}
+
+@media (max-width: 767px) {
+    .search-button-mobile {
+        display: inline-flex;
     }
 }
 

@@ -392,7 +392,7 @@ const indexHTML = `<!DOCTYPE html>
             <!-- Search button injected here by search.js on mobile -->
         </div>
 
-        <main class="table-of-contents">
+        <main class="table-of-contents" id="table-of-contents">
             <h2>Table of Contents</h2>
             <div class="toc-grid">
                 ${chapters.map((chapter, index) => `
@@ -409,7 +409,7 @@ const indexHTML = `<!DOCTYPE html>
                 <div class="download-card">
                     <h3>📚 Complete Book</h3>
                     <p>All 63 chapters + Medical Glossary</p>
-                    <p class="file-info">~500 pages, professional PDF</p>
+                    <p class="file-info">~200 pages, professional PDF</p>
                     <a href="https://raw.githubusercontent.com/rkrules/heart-talks/main/pdfs/heart-talk-complete.pdf" class="download-btn" download="heart-talk-complete.pdf">
                         Download Complete Book
                     </a>

@@ -47,14 +47,21 @@ class HeartTalkSearch {
         searchButton.innerHTML = '🔍 Search';
         searchButton.addEventListener('click', () => this.openSearchModal());
 
-        // On homepage, insert search button into the action bar next to glossary
-        // On chapter pages, insert into the chapter header
-        const actionBar = document.querySelector('.index-actions');
+        // Inject into header for desktop (absolute positioned top-right)
         const header = document.querySelector('.chapter-header, .book-header');
-        if (actionBar) {
-            actionBar.appendChild(searchButton);
-        } else if (header) {
+        if (header) {
             header.appendChild(searchButton);
+        }
+
+        // Also inject a copy into .index-actions for mobile homepage view
+        const actionBar = document.querySelector('.index-actions');
+        if (actionBar) {
+            const searchButtonMobile = document.createElement('button');
+            searchButtonMobile.className = 'search-button search-button-mobile';
+            searchButtonMobile.setAttribute('aria-label', 'Search all chapters');
+            searchButtonMobile.innerHTML = '🔍 Search';
+            searchButtonMobile.addEventListener('click', () => this.openSearchModal());
+            actionBar.appendChild(searchButtonMobile);
         }
 
         // Create search modal

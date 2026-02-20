@@ -140,6 +140,17 @@ async function generateCompleteBookPDF(browser) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Heart Talk - Complete Book</title>
     <style>${css}</style>
+    <style>
+        /* Overrides for PDF rendering */
+        * { animation: none !important; transition: none !important; }
+        .chapter-content { animation: none !important; }
+        .chapter-section { page-break-before: always; }
+        .chapter-section:first-child { page-break-before: avoid; }
+        .book-container { box-shadow: none; padding: 0; margin: 0; max-width: 100%; }
+        .chapter-header, .chapter-navigation, .chapter-actions,
+        .book-footer, .search-button, .home-link, .glossary-link,
+        .alphabet-nav, .glossary-header .home-link { display: none !important; }
+    </style>
 </head>
 <body>
     <div class="book-container">
@@ -196,13 +207,14 @@ async function generateCompleteBookPDF(browser) {
                 const html = readFile(chapterPath);
                 const title = extractChapterTitle(html);
 
-                // Extract the full article element which contains all chapter content
+                // Extract inner content of the article (strip the article tag itself to avoid
+                // double page-break-before from both .chapter-section and .chapter-content CSS)
                 const articleMatch = html.match(/<article[^>]*class="chapter-content"[^>]*>([\s\S]*?)<\/article>/);
 
                 if (articleMatch) {
                     htmlContent += `
-        <div class="chapter-section" style="page-break-before: always;">
-            ${articleMatch[0]}
+        <div class="chapter-section" style="page-break-before: always; margin-bottom: 60px;">
+            ${articleMatch[1]}
         </div>
 `;
                 } else {
