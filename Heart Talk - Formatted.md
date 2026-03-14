@@ -2424,60 +2424,60 @@ More than  70% of the Americans use social media, which has become a popular sou
 In this issue of  HEART TALK, I will try to explain some of the myths about the diet, exercise, and statin use. 
 
 A FEW MYTHS ABOUT HEALTHY EATING
-MYTH # 1: ALL FATS ARE BAD
+MYTH #1: ALL FATS ARE BAD
 This is not true. Healthy facts are essential for our body. Think of olive oil, avocados, nuts, seeds, and fatty fish. These foods contain fats that help improve cholesterol by raising HDL and lowering LDL cholesterol.
 The Mediterranean diet, which emphasizes these healthy fats, has been shown to improve heart health, even when combined with statin therapy
 
-MYTH #2: SIMPLY CUTTING OUT CHOLESTEROL-RICH FOODS SOLVE HIGH CHOLESTEROL:
+MYTH #2: SIMPLY CUTTING OUT CHOLESTEROL-RICH FOODS SOLVE HIGH CHOLESTEROL
 While it is true that reducing foods like organ meats or shellfish can help, dietary cholesterol, actually has a limited effect on your blood cholesterol. The real culprits are saturated, fat and trans fats, which have a much greater impact.
 So instead of fixating on cholesterol-rich foods, focus on an overall heart healthy diet. 
 
-MYTH #3;  MANAGING CHOLESTEROL MEANS BORING BLAND MEALS
+MYTH #3: MANAGING CHOLESTEROL MEANS BORING BLAND MEALS
 This is not true. Healthy eating can and should be enjoyable! Using herbs, spices and creative cooking techniques, you can transform nutritional meals into flavorful satisfying dishes.
 
-MYTH # 4: EGGS ARE BAD BECAUSE OF CHOLESTEROL
+MYTH #4: EGGS ARE BAD BECAUSE OF CHOLESTEROL
 Eggs were once blamed for raising the cholesterol. Truth is, for most healthy people, dietary cholesterol has minimal impact on blood cholesterol. Eggs are rich in proteins and nutrients. Moderate egg intake is ok
 
-MYTH #5:FRUITS HAVE TOO MUCH SUGAR
+MYTH #5: FRUITS HAVE TOO MUCH SUGAR
 Fruits contain natural sugar, but also fiber, vitamins, antioxidants, and water. Truth is, whole fruit supports health. It is not comparable to added sugar in soda or candy. 
 
-MYTH #6:DAIRY IS INFLAMMATORY FOR EVERY ONE
+MYTH #6: DAIRY IS INFLAMMATORY FOR EVERY ONE
 Some people are lactose intolerant. Diary isn’t harmful for most people. Yogurt and milk provide protein, calcium, and probiotics
 
-MYTH#7: SALADS ARE ALWAYS HEALTHY
+MYTH #7: SALADS ARE ALWAYS HEALTHY
 Some salads contain more calories than burgers due to heavy dressings and fried toppings. Truth is- ingredients matter more than the label.
 
 MYTHS ABOUT EXERCISE
 
-MYTH #1: ONLY INTENSE EXERCISE BENEFITS HEART:
+MYTH #1: ONLY INTENSE EXERCISE BENEFITS HEART
 This is false. Moderate physical activity is also highly effective in promoting heart health. Brisk  walking, cycling, swimming, elliptical or even gardening can significantly reduce cardiovascular risk.
 The secret is consistency. Short repeated periods of exercise go a long way to improve health, by lowering blood pressure, reducing LDL cholesterol and raising HDL cholesterol. Instead of doing 30 minutes of exercise continuously daily, if you do 10 minutes of exercise three times daily should also be equally effective.
 
-MYTH # 2: EXERCISE HAS A SIGNIFICANT IMPACT ON LDL LEVEL:
+MYTH #2: EXERCISE HAS A SIGNIFICANT IMPACT ON LDL LEVEL
 While physical activity does help to raise HDL level and improve overall cardiovascular health, its effect on lowering LDL is minimal. It is important to address this myth because many high risk patients believe exercise and diet alone are enough to lower the LDL cholesterol. For these patients, lifestyle changes are vital, but often not sufficient on their own. 
 
 MYTH #3: EXERCISE CAN UNDO THE EFFECT OF AN UNHEALTHY DIET
 While staying active is vital, it is not a free pass to eat poorly. A diet high in saturated and trans fat can still raise LDL cholesterol and increase cardiovascular risk, regardless of regular exercise. Additionally, around 20% of the population are naturally better absorbers of dietary cholesterol, making healthy eating, particularly critical for them. 
 What is the bottom line??  to get the best results, healthy eating and regular exercise need  to go hand-in-hand.
 
- MYTH #4: IF YOU EAT WELL AND EXERCISE REGULARLY, YOU DON’T NEED STATINS AND OTHER LIPID LOWERING DRUGS:
+MYTH #4: IF YOU EAT WELL AND EXERCISE REGULARLY, YOU DON’T NEED STATINS AND OTHER LIPID LOWERING DRUGS
 
 While lifestyle changes are incredibly important, they are not always enough. Many people, especially those with genetic predisposition, high cardiovascular risk or existing heart disease, still need statins or other drugs to effectively manage cholesterol level.
 Think of it this way: Lifestyle changes and lipid lowering medications work together as a team, providing a more complete approach to managing cholesterol and improving heart health. 
 
-MYTH #5: YOU NEED TO EXERCISE DAILY TO GET THE BENEFITS;
+MYTH #5: YOU NEED TO EXERCISE DAILY TO GET THE BENEFITS
 It is recommended that atleast 30 minutes of aerobic exercise five times a week for a total of at least 150 minutes per week is beneficial,  
 However, Weekend Warriors, who can do the 150 minutes during the weekend only, get equal benefits. So in other words, if you’re working, you cannot give an excuse that you don’t have the time to do the exercise during the weekdays.  You can accomplish the entire 150 minutes goal, during the weekend and get the benefit.
 
 STATIN MYTHS
 Social media posts about statins side effects are often dominated by anecdotal experiences and sometimes invalid information.
 
-MYTH #1: STATINS CAUSE MEMORY LOSS:
+MYTH #1: STATINS CAUSE MEMORY LOSS
 In 2012, after a series of flawed studies linked memory loss to statin use and FDA required statin drug labels to include information about memory loss and cognitive function. Many people worried that lower cholesterol levels might impair brain function. The fact is the brain produces its own cholesterol and does not rely on the cholesterol present in the blood.
 The studies were poorly designed, lacking many scientific controls, needed for validity and often relying on anecdotal evidence and self reported symptoms. To confirm this association, additional well designed studies were performed, including large scale, randomized control trials. But no significant difference in cognitive function between statin users and non-users was ever found.
 The FDA has since clarified that the potential cognitive effect are very rare and reversible when they do occur and the benefit of statins in reducing cardiovascular events far outweigh the risks.
 
-MYTH # 2: STATINS INCREASE THE RISK OF DIABETES
+MYTH #2: STATINS INCREASE THE RISK OF DIABETES
 While statins can slightly raise the blood sugar levels, this is mainly a concern for patients with existing pre-diabetes. For these individuals, a diabetic diagnosis might just confirm a pre-existing condition. Importantly, the cardiovascular benefits of statins far outweigh slight risk, even in these individuals. Bottom line is to check blood sugar after several months of statin therapy, and if the blood sugar has increased significantly, changing to another statin or trying another cholesterol lowering drug such as Azitimibe( Zetia) can be tried. 
 
 I hope the above information is helpful for some of you. I’m hoping that I did not open up the Pandora’s box.
