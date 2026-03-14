@@ -588,53 +588,6 @@ Fineranone ( Kerendia ) also helps to slow the progression of diabetic kidney di
 
 ಅಂಕ 8 Double 0
 
-HEART TALK #number 19
-CALCULATING YOUR CARDIOVASCULAR RISK
-
-Cardiovascular disease is the leading  cause of death in the world. One of the secrets to long and healthy life is to prevent the consequences of atherosclerotic cardiovascular disease. The best place to start is by learning your cardiovascular risk so that you can take necessary steps to lower it  If you don’t know your risk, you won’t have the opportunity to prevent it. 
-Your individual risk of suffering a serious consequences of atherosclerotic cardiovascular disease can be determined using a formula, design to calculate the percentage of risk, over 10 year period or life time. The lower the percentage,lower the chance and higher the percentage, the higher the chance you will suffer significant heart and vascularproblem.
-Several different scoring systems are available. They share several common risk factors but differ from each other depending on the studies on which they were based. 
-
-STANDARD U.S. CALCULATOR-
-The most widely used calculator in the U.S.is the Pooled cohort risk calculator which estimates the 10 year risk of first atherosclerotic cardiovascular event. Input your age, gender, race, blood pressure, total cholesterol, and high density cholesterol, and answer yes or no to a few questions- whether you have diabetes, whether you were a smoker or Are being treated for hypertension. The calculator then calculates your risk as follows.
--Low risk: less than 5%
--borderline risk: 5%-7.4%
--intermediate risk: 7.5% to 19.9%
--high risk: more than 20%.
-
-Generally speaking, those with risk of 7.5% or higher are candidates for Statin therapy. 
-In spite of its popularity, this calculator is controversial because it omits 2 risk factors, namely family history, and the presence of inflammation.
-Family history is a very powerful risk factor. Physicians can modify the calculator to include it.
-Inflammation measured by a blood test for high sensitivity C reactive, protein. ( hs CRP ) is a proven predictor of risk. Without including these factors, the calculation may not be accurate.
-
-THE REYNOLDS RISK SCORE
-Whether or not either parent had a heart attack before the age of 60-and inflammation measured by hsCRP are included in this risk score calculator. Therefore, this scoring system may provide a more accurate determination of cardiovascular risk in adults who do not have diabetes.
-People with diabetes are already at elevated risk of heart attack, and stroke anyway.
-
-THE EUROPEAN SYSTEM-
-U.S Pooled Cohort risk calculator ignores, geographical differences. European risk calculator do not. 
-The SCORE2 and SCORE2-OP calculators take into consideration, atherosclerotic cardiovascular disease risk
- in the country, where an individual  resides
-
-ADDITIONAL CONSIDERATION-
-Risk calculators use the most common risk factors for cardiovascular disease, however, there are many other risk  factors which can raise an individual risk. Examples include elevated Lipo protein (a), high calcium score and diseases that increase systemic inflammation such as rheumatoid arthritis or lupus.
-Other factors are associated with  pregnancy and female hormone changes. These include history of preeclampsia, gestational, diabetes, development of hypertension during pregnancy and menopause prior to age 40. 
-
-NEXT STEP-
-When once you know your risk, you need to act upon it. . This is best accomplished by having an honest discussion with your physician.
-Risk calculators generally provide 10 year risk estimates, but it’s a good idea to lower the lifetime risk. This is because your cardiovascular risk will change as you age. For example, a 50 year old man with mildly elevated LDL may have a low 10 year risk of cardiovascular disease, but his lifetime risk may be higher.
-
-A heart attack can change your life. A stroke can make you disabled. Your goal should be to prevent such adverse events.
-
-Where to find these risk calculators 
--Pooled cohort calculator Risk Calculator:clinicalc.com/Cardiology/ASCVD/PooledCohort.aspx
--REYNOLDS Risk Score:www.reynoldsriskscore.org/default.aspx
--SCORE2 and SCORE2-OP:
-www.escardio.org/Education/Practice-Tools/CVD-prevention-toolbox/SCORE-Risk-Charts
-
-Keshava Aithal
-ಅಂಕ 8 Double 0
-
 ---
 
 ## Heart Talk #19
@@ -2530,6 +2483,42 @@ While statins can slightly raise the blood sugar levels, this is mainly a concer
 I hope the above information is helpful for some of you. I’m hoping that I did not open up the Pandora’s box.
 
 Keshava Aithal CC
+ಅಂಕ 8 Double 0
+
+---
+
+## Heart Talk #63
+
+### SOME HEART DISEASE MYTHS
+Sometimes, it is difficult to shake off, long held habits and beliefs. Over the decades, certain recommendations about avoiding heart disease have evolved, thanks to the constant streams of new evidence from medical research. Knowing the latest evidences can help us make better choices for preventing, recognizing and monitoring, heart disease. Here are some myths about heart disease.
+
+MYTH # 1. TAKING DAILY FISH OIL SUPPLEMENT CAN HELP TO PREVENT HEART  DISEASE
+In 1970s, studies suggested that people whose diet featured lots of fatty fish had a low rate of heart disease. Fatty fish are rich in omega-3 fatty acids such as EPA and DHA which have beneficial effect on cardiovascular health. The effect was related to anti-inflammatory and anti blood clot forming effects. By 1980s omega-3 fish supplements started showing up in stores. At present, these capsules are among the most popular supplements sold in this country.
+
+Over the past two decades, numerous studies have compared omega-3 supplements against placebo and found no evidence that the capsules can help to stave off heart attacks or related problems in healthy people. Present  recommendation is not to waste money on over-the-counter omega-3 supplements. They are not regulated by the FDA and some contain unhealthy saturated or oxidized fats, industrial polluents or mercury.
+Only fish oil supplement proven to be effective is is ICOSAPENT ETHYL( IPE) otherwise called VASCEPA at a dose of 2 grams twice daily, which is useful in patients with high triglycerides and it also reduces cardiovascular events and deaths. This medication is available only with the prescription.
+
+MYTH#2: IT IS OK TO HAVE HIGH BLOOD PRESSUE WHEN YOU ARE OVER 65
+As people age, their arterial walls stiffen, forcing heart to pump harder. As a result, blood pressure tend to rise. In the past doctors thought that for older people, high blood pressure was essential to deliver enough blood to the brain. Many doctors thought that after age 65, systolic blood pressure as high as 150 mmHg is OK.
+Current guidelines suggest that all adults should aim for a systolic blood pressure of 130 or lower. Reaching that goal often requires people to take multiple blood pressure medications and this could result in side effects such as dizziness and falls. Recent studies suggest similar side effects rates among older people who aimed for lower blood pressure versus higher blood pressure target. Importantly, the lower targets lead to reduced rates of stroke and heart attacks.
+Present recommendation is that no matter how old you are, work with your doctor to achieve a blood pressure goal below 130 over 80, as long as you don't experience significant side effects.
+
+MYTH#3: A FAMILY HISTORY OF HEART DISEASE MEANS, YOU ARE DISTINED TO HAVE IT TOO
+It is true that having a parent or sibling with heart  disease increases your risk of  this condition, especially with family history of premature cardiovascular disease. Family history of Premature cardiovascular disease is defined as diagnosis of cardiovascular disease before the age of 55 in first degree male relative ( father, brother or son) or before the age of 65 in the first degree female relatives (mother, sister or daughter ). Factors such as high cholesterol and high blood pressure that increases heart disease risk may be linked to genes that run in families.
+High Blood Pressure , unhealthy diet, smoking, sedentary lifestyle-also tend to run in the families and may contribute to the elevated cardiovascular risk. In most  of the people, lifestyle factors carry more weight than genetics.
+If early heart disease runs in your family, it is possible that you might have an inherited lipid disorder, such as familial hypercholesterolemia, which causes abnormally high LDL cholesterol above 190 or elevated Lipo protein(a) level.
+
+MYTH#4: ONLY WOMEN GET UNUSUAL HEART ATTACK SYMPTOMS
+Many years back, American heart Association launched the GO RED FOR WOMEN campaign to help raise awareness of heart disease in women. The key message was to recognize heart attack symptoms- regarding some of the less common symptoms, such as nausea, vomiting, dizziness, sweating, and jaw pain. Some studies suggested that women are more likely to experience these symptoms than men. But the difference aren't all that great and less typical symptoms can also occur in men and men should be aware of this too.
+
+MYTH#5: BABY ASPIRIN HELPS TO PREVENT HEART ATTACK AND STOKE IN HEALTHY PEOPLE
+It is true that in the past, everybody took baby aspirin daily to prevent heart attack. Then reports came out, which showed that in healthy people risk of baby aspirin exceeds the benefits in primary prevention, meaning prevention of cardiovascular disease before an event occurs. The most common side effect of aspirin is bleeding, either in the G.I. tract or more seriously brain bleed. Therefore, aspirin is no longer used for primary prevention in most people however it can be recommended in people with
+multiple risk factors and diabetes, and also in patients with elevated
+Lipoprotein (a) level. Work with your doctor to see whether low dose aspirin is good for you.
+
+Bottom line is, all of us should be aware of symptoms of heart disease, and be vigilant. Remember, NO-ONE IS IMMUNE
+
+Keshava Aithal
 ಅಂಕ 8 Double 0
 
 ---

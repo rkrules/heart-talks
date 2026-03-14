@@ -322,6 +322,7 @@ const indexHTML = `<!DOCTYPE html>
 <body>
     <div class="book-container">
         <header class="book-header">
+            <a href="glossary.html" class="glossary-link">📖 Medical Glossary</a>
             <h1 class="book-title">${bookTitle}</h1>
             <p class="book-author">by ${author}</p>
             <p class="book-description">A comprehensive collection of heart health insights and cardiovascular care guidance</p>

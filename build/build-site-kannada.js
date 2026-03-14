@@ -303,6 +303,7 @@ chapters.forEach((chapter, index) => {
                 <a href="../index-kn.html" class="lang-link active">ಕನ್ನಡ (Kannada)</a>
             </nav>
             -->
+            <a href="../glossary-kn.html" class="glossary-link">📖 ಶಬ್ದಕೋಶ</a>
             <a href="../index-kn.html" class="home-link">← Table of Contents</a>
             <div class="chapter-number">Heart Talk #${chapter.number}</div>
         </header>
@@ -376,6 +377,7 @@ const indexHTML = `<!DOCTYPE html>
                 <a href="index-kn.html" class="lang-link active">ಕನ್ನಡ (Kannada)</a>
             </nav>
             -->
+            <a href="glossary-kn.html" class="glossary-link">📖 ವೈದ್ಯಕೀಯ ಶಬ್ದಕೋಶ</a>
             <h1 class="book-title">${bookTitle}</h1>
             <p class="book-author">by ${author}</p>
             <p class="book-description">A comprehensive collection of heart health insights and cardiovascular care guidance</p>
@@ -453,9 +455,10 @@ function generateSearchIndex(chapters) {
     return searchIndex;
 }
 
-const searchIndex = generateSearchIndex(chapters);
+// Search index not generated for Kannada - only English content is searchable
+// const searchIndex = generateSearchIndex(chapters);
 
-console.log('\n✅ Website generation complete!');
+console.log('\n✅ Kannada website generation complete (search index not generated)!');
 console.log(`\n📊 Formatting improvements applied:`);
 console.log(`   - Title case normalization (${chapters.length} chapters)`);
 console.log(`   - Smart paragraph splitting for readability`);
