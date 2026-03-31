@@ -1,0 +1,9 @@
+# Surge ignore file
+# Everything NOT listed here will be deployed
+# We want to deploy everything including pdfs
+
+# Only ignore these:
+node_modules
+.git
+.claude
+*.log
