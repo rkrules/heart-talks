@@ -2521,9 +2521,290 @@ Keshava Aithal
 
 ---
 
+## Heart Talk #64
+
+### Ultra Processed Foods and Their Effects on Health
+
+Ultra processed foods usually contain long list of preservatives, colorings, flavorings and other ingredients that would harm our health. The majority of the foods that we eat in the United States are ultra processed. In the typical grocery store most of the foods and beverages lining the shelves are ultra processed.
+
+WHAT MAKES A FOOD "ULTRA PROCESSED".
+
+The term ultra processed foods originated from the nova food classification system, which defines food in to four categories, ranging from least to most processed.
+
+-Unprocessed or minimally processed foods like grains, fruits, vegetables, milk, or fish.
+
+-Processed culinary ingredients like salt, sugar, olive oil and butter
+
+-Processed food, such as jam, pickles, or canned fruits.
+
+-Ultra processed foods like energy drinks, instant oatmeal, sliced bread, and hotdog.
+
+Ultra processed foods have one or more ingredients like chemical-based preservatives, hydrogenated oil, sweeteners, like high fructose corn syrup, and artificial colors and flavors. Ultra processed food undergo processing techniques, like pre-frying, molding, fractioning and other chemical alterations that leave the final product showing no resemblance to the original ingredients.
+
+The processes and ingredients used to create ultra processed foods often make these foods hyper palatable, meaning they are designed to be exceptionally appealing to humans and can be addictive. Ultra processed foods typically contain a combination of ingredients like sugar, fat and salt that stimulate the brain's reward system, making it hard to stop eating them.
+
+# WHAT MAKES ULTRA PROCESSED FOOD UNHEALTHY
+
+Ultra processed foods are often associated with worse diet quality and a long and growing list of health outcomes. Study done in 2024 revealed that ultra processed foods are more likely to several health conditions, including obesity, type 2 diabetes, cardio-metabolic diseases, many cancers, gastrointestinal disorders, asthma, anxiety, depression, cardiovascular events, and all cause mortality. World Health Organization (WHO) classified ultra processed foods as type 1 carcinogen- a category shared by tobacco and asbestos for their link to colorectal cancer. Study published in JOURNAL OF AMERICAN MEDICAL ASSOCIATION showed that compared with women with healthier diets, women who eat a lot of ultra processed foods are 1.5 times more likely to develop pre-cancerous polyps before the age of 50.
+
+Sodas have some of the strongest evidence for health harming ingredients, several additives, high sugar or artificial sweeteners and lacking essential nutrients(which our ancestors never encountered) and this can potentially cause health issues like obesity, heart disease and type 2 diabetes.
+
+Ultra processing changes how our bodies metabolize these foods, making them pre-digested. This leads to rapid absorption of sugar and fats and spikes in blood sugar. It also bypasses the need for the body to break down food, which can lead to a disrupted gut microbiomes because of the low fiber content and potential harm from addictive. This can increase the risk of inflammation and bowel disease, insulin resistance, etc..
+
+# WHAT CAN YOU DO
+
+Try to avoid ultra processed foods and eat whole foods. Read the ingredient list. If it contains ingredients you cannot pronounce, avoid it. Eat locally grown foods. Cook at home more often. Replace sugary drinks with water. Avoid artificial sweeteners. Remember that ultra processed foods are designed to make you overeat.
+
+Keshava Aithal
+ಅ���ಕ 8 Double 0
+
+---
+
+## Heart Talk #65
+
+### An Update on Good Cholesterol
+
+Lipids are fatty substances that are essential component of the human body. They are important for generating and storing energy, forming hormones and vitamin D, building cell membranes and providing insulation to nerve conduction and prevent heat loss.
+
+Lipids are not water soluble, and therefore they cannot travel in the bloodstream easily. Therefore, lipids are transported in the bloodstream through water soluble capsules called Lipoprotiens. These Lipoproreins travel easily in the circulation. If you are trying to avoid heart disease, you should keep tabs on your blood cholesterol values, especially your low density lipoprotein or LDL (bad cholesterol). Too much LDL in the bloodstream can create artery clogging plaques, increase your risk of heart attack and stroke.
+
+Your cholesterol report also called lipid profile or lipid panel includes high density lipoprotein or HDL. HDL, often referred to as good cholesterol since people with high HDL levels are less likely to develop cardiovascular disease.
+
+HDL level less than 40 for men and less than 50 for women is considered low. However higher the level of HDL, better it is. For men more than 50 and for women more than 60 is considered a good value.
+
+Higher HDL levels are often linked with behavior like eating, healthy diet, getting regular exercise and not smoking.
+
+However recent studies suggest that simply having a high HDL level is not protective. It is important to have high HDL that is functioning well. HDL functionality may be more important than HDL level.
+
+There are ways to improve your HDL functionality. Regular aerobic exercise, healthy diet, weight loss, and quitting smoking have been shown to improve HDL function. Omega-3 fatty acids may also help.
+
+Also, high levels of HDL may not always be protective. In some cases, genetic mutations can cause high HDL that is dysfunctional and actually increase cardiovascular risk. If you have very high HDL (above 80), it is worth getting a cardiac risk assessment.
+
+Keshava Aithal
+
+---
+
+## Heart Talk #66
+
+### Updated Guideline for Managing Abnormal Lipids
+
+Studies have shown that 80% or more of the cardiovascular disease is preventable and an elevated LDL cholesterol, often called bad cholesterol is a major part of the risk. Optimizing healthy lifestyle habits such as regular physical exercise, heart-healthy eating, not smoking, maintaining an ideal body weight and adequate good quality sleep are the first steps to lower cholesterol. If lipid numbers are not within the desirable range after a period of lifestyle optimization, adding lipid lowering medications earlier than previously thought makes sense. Lower cholesterol for longer, just like lower blood pressure for longer, results in much greater protection agonist future heart attack and stroke risk.
+
+American College of Cardiology and American Heart Association announced their new cholesterol guidelines last week. If you had read my previous heart talks, I have mentioned many of these.
+
+Here is the update:
+
+LDL CHOLESTEROL GOALS
+
+For patients with LDL cholesterol above 70 mg/dL, a less than 70 mg/dL is recommended. For those with LDL above 100, less than 100 is recommended. For patients with very high risk, less than 55 is recommended.
+
+FOR PATIENTS WITH HIGH RISK: A new category of very high risk has been added. This includes patients with multiple major atherosclerotic cardiovascular disease events, or one major event plus multiple high risk conditions. For these patients, LDL goal of less than 55 is recommended with option to further reduce to less than 70 if needed.
+
+WHEN TO START STATINS: The new guidelines recommend considering statin therapy for patients with age 55-75 with LDL cholesterol above 70 mg/dL (0.5-1.8 mmol/L), who have 10-year risk of cardiovascular disease of 7.5% or higher.
+
+STATIN INTENSITY: High intensity statins are recommended for most patients. These include atorvastatin 40-80 mg or rosuvastatin 20-40 mg. Moderate intensity may be considered for older patients or those who cannot tolerate high intensity.
+
+ADDING Ezetimibe: For patients on maximally tolerated statin therapy who still have LDL above 70, adding ezetimibe is recommended.
+
+PCSK9 INHIBITORS: For patients with LDL above 70 despite statin and ezetimibe, or those with genetic causes of high cholesterol, PCSK9 inhibitors may be considered. These are expensive but very effective.
+
+LIPOPROTEIN(A): Everyone should get a one-time Lp(a) test. Elevated Lp(a) is an independent risk factor for cardiovascular disease.
+
+Keshava Aithal
+
+---
+
+## Heart Talk #67
+
+### An Update on Heart and Inflammation
+
+Inflammation is a normal part of the body's defense to injury or infection, and in this way, it is beneficial. But inflammation is damaging when it occurs in healthy tissues or lasts longer when it is known as chronic inflammation. It may persist for months or years.
+
+During the past three decades or so, research has shown that inflammation is as important as cholesterol in the development of atherosclerosis. At present, it is recommended that screening for inflammation, which is easily measured with an inexpensive blood test be done along with your lipid screening.
+
+### DOES INFLAMMATION IS A FRIEND OR ENEMY
+
+Inflammation comes in two forms, acute, which is short lived and would often cause symptoms, such as pain or swelling, or it can be chronic, which is long lasting and often silent. Acute inflammation is a natural immune response to a health threat, such as injury or infection and results in an outpouring of white blood cells and other chemical messengers which help to heal the wound or eliminate the bug causing the infection. On the other hand, chronic low-grade inflammation often initiated by harmful substances, such as high blood sugar or excessive fat in the tissues. This slow chronic process has become increasingly common in our current environment and it is common factor in many health conditions, including cardiovascular disease.
+
+### WHAT CAUSES CHRONIC INFLAMMATION
+
+Chronic inflammation can be caused by many factors, including obesity, insulin resistance, diabetes, autoimmune conditions like rheumatoid arthritis, lupus, periodontal disease, chronic infections, and exposure to toxins like tobacco smoke and air pollution.
+
+### ROLE IN HEART DISEASE
+
+Chronic inflammation plays a key role in every stage of atherosclerosis, from initial plaque formation to plaque rupture and heart attack. Inflammatory cells accumulate in artery walls, releasing chemicals that promote plaque growth and instability. When these plaques rupture, they can cause sudden heart attacks.
+
+### SCREENING FOR INFLAMMATION
+
+High sensitivity C-reactive protein (hs-CRP) is a simple blood test that measures inflammation. Levels below 1 mg/L are low risk, 1-3 mg/L are average risk, and above 3 mg/L are high risk.
+
+Other markers include fibrinogen and interleukin-6 (IL-6).
+
+### TREATING INFLAMMATION
+
+Statins have anti-inflammatory effects beyond lowering cholesterol. For patients with elevated LDL and elevated inflammation despite statin therapy, adding low-dose colchicine (a medication traditionally used for gout) has been shown to reduce cardiovascular events.
+
+Lifestyle modifications remain key: anti-inflammatory diet (Mediterranean diet), regular exercise, adequate sleep, stress management, and maintaining healthy weight.
+
+New drugs targeting inflammation specifically (like_canakinumab) are being studied but are not yet standard of care.
+
+Keshava Aithal
+
+---
+
 ## Heart Talk #68
 
 ### Can We Prevent Diabetes
+
+This is not really a cardiac topic. However, diabetes and heart disease are so closely associated and this topic is quite relevant to this group. Therefore, I am sending you this.
+
+Regulation of blood sugar is a tightly controlled process. Normally blood sugar is maintained in a narrow window between 70-140 mg/dL
+
+## FASTING STATE
+In the fasting state, most glucose is produced by the liver- half from the breakdown of glycogen stores (which is the main storage form of glucose in the body) and half from gluconeogenesis (This is the process by which body makes new glucose from non-carbohydrate source). This glucose is used by the brain for fuel and by other tissues, such as gut and muscles. Production and uptake are balanced, maintaining fasting blood glucose level between 70-90 mg/dL
+
+## FED STATE
+When we eat, carbohydrates are absorbed, which causes blood sugar to increase. This increase in the blood sugar triggers the release of insulin from the pancreas, which acts to limit the rise of blood sugar and maintain postmeal blood sugar levels in the normal range.
+
+Insulin acts at several sites in the body, predominantly at the tissue level, stimulating glucose uptake by muscles and fat. It also acts at the liver to stimulate glycogen formation and the storage of glucose.
+These two actions together lead to lower blood sugar. For individuals without diabetes, this is a very precise system which maintains balance between glucose levels below 140 mg/dL.
+
+### WHAT IS DIABETES
+Diabetes is a condition of high blood sugar or hyperglycemia, that result from either insulin deficiency or impaired insulin action, which is also called insulin resistance.
+In general, there are two classes of diabetes
+-Type 1 diabetes, which is due to insulin deficiency. There is genetic susceptibility to autoimmune disease in this.
+-type 2 diabetes, which is the result of insulin resistance
+
+## TYPE 2 DIABETES
+Unlike type 1 diabetes, type 2 diabetes does not involve a problem with insulin production. The problem here is with insulin action. These patients often have high insulin levels, but suffer from insulin resistance, meaning the tissues are unable to "SEE" the insulin, resulting in a relative insulin deficiency.
+Type 2 diabetes is also known as adult onset diabetes, as it tends to present in overweight adults. There is also a genetic component, as it tends to run in families. If one or both parents has type 2 diabetes, children are more than four times as likely to develop type 2 diabetes.
+
+## INSULIN RESISTANCE DEVELOPS FIRST
+Patient first develops insulin resistance, requiring higher levels of insulin to maintain normal blood sugars. Initially pancreas is able to keep up with insulin production, and insulin levels are elevated. However, with time, pancreas fails and patients are unable to maintain normal blood sugar without medication.
+
+### RISK FACTORS FOR TYPE 2 DIABETES
+GENETICS: having a first-degree relative with diabetes is one risk factor
+ETHNICITY: Type 2 diabetes is more common in certain ethnicities, such as African-Americans, Latinos, Native Americans, South east Asians (INDIAN SUBCONTINENT), Pacific islanders
+
+## HISTORY OF GESTATIONAL DIABETES( Diabetes during pregnancy)
+Women with the history of gestational diabetes are at higher risk of developing type 2 diabetes
+
+CERTAIN COMORBIDITIES
+Such as:-
+Cardiovascular disease
+Hypertension
+Hyperlipidemia
+Conditions associated with insulin resistance or associated with type 2 diabetes. These are.:-polycystic ovarian syndrome, Acanthosis Nigricans in which there is skin darkening on the neck and axilla due to high insulin levels.
+
+## OBESITY AND PHYSICAL INACTIVITY
+Obesity and physical inactivity increase the risk of developing type 2 diabetes. An elevated BMI is associated with a significant increase in the risk of diabetes.
+- BMI of 25 kg/m² or more for non-Asian patients
+- BMI of 23 kg/m2 or more for Asian patients
+
+## WHO SHOULD BE SCREENED FOR DIABETES
+Most guidelines recommend screening ;
+- All patience over the age of 35
+- All overweight patients
+- Adults of any age who have risk factors for type 2 diabetes, such as high blood pressure, high cholesterol, or a family history of the disease
+- Women who have had gestational diabetes( screened every three years )
+- Patient with HIV
+
+## MAKING THE DIAGNOSIS
+1. FASTING BLOOD SUGAR LEVELS- Blood sugar level after eight hours of fasting and if this is greater than or equal to 126 mg/dL
+2. ORAL GLUCOSE TOLERENCE TEST- For this, patient is given a beverage containing 75 g of glucose. Then blood sugar is measured two hours after. A reading of greater than 200 mg/dL is diagnostic of diabetes.
+In both of these cases, the abnormal results must be confirmed on repeat testing.
+Not all patients have both elevated fasting and elevated postmeal blood sugars. Some may have just high fasting blood sugar, while others may just have high postmeal blood sugars. In these cases, we may miss the diagnosis of diabetes if we use the wrong test. In this situations, using hemoglobin A1c make the diagnosis more easily.
+3. HEMOGLOBIN A1c-A level of 6.5% or greater suggests diabetes. This test does not need fasting.
+
+## WHAT IS PRE-DIABETES
+Pre-diabetes is a condition where- in blood sugar falls between normal and diabetes
+- If patients have fasting blood sugar between 100 and 126 mg/dL, they have impaired fasting glucose.
+- If post meal blood sugar is between 140 and 200 mg/dL, they are considered to have impaired glucose tolerance.
+- Patients with a hemoglobin A1c between 5.6 and 6.5%
+- Patients with an A1c between 5.5 and 6% have a 10 to 20% risk of developing diabetes over the next five years.
+- If hemoglobin A1c is between 6 and 6.5%, they have a 25 to 50% risk of developing diabetes.
+
+## EARLY INTERVENTION
+If pre-diabetes is identified, there are some interventions that have been shown to prevent progression to type 2 diabetes
+1. Lifestyle interventions:
+- A 7% decrease in the body weight, primarily through diet
+2. 150 minutes of physical activity weekly, that is at least 30 minutes daily for five days a week. Physical activity is defined as an activity equal in intensity to a brisk walk.
+
+## MEDICATIONS
+1 METFORMIN: According DIABETES PREVENTION PROGRAM, a medication called metformin helps to improve insulin sensitivity and results in a 30-35% reduction in the incidence of diabetes. For patients with BMI of greater than 35, metformin reduces the risk of development diabetes by 50-60%
+
+ACARBOSE,: This medication blocks the absorption of carbohydrate from the small intestine and it has been shown to decrease the development of diabetes by about 25%. However, this medication is poorly tolerated and has not been used for this purpose.
+
+PIOGLITAZONE (ACTOSE): This medication helps to improve insulin resistance and one study in patient with impaired fasting blood glucose showed a 72% decrease in the development of diabetes. However, significant weight gain can occur with this medication and therefore it has not been used regularly for prevention of diabetes.
+
+## GLP-1 RECEPTOR AGONISTS:
+These newer drugs used for weight reduction and treatment of diabetes, often can be useful to prevent diabetes. However, these are expensive and are not used routinely for this purpose.
+
+In summary, primary intervention for patients with pre-diabetes should be a lifestyle intervention. Patients should be encouraged to achieve a weight loss of 7% or more. Daily exercise should be encouraged with 30 minutes of activity at least five days a week
+
+For patients at high risk of developing diabetes, those with any of the following characteristics, METFORMIN can be considered.
+- History of gestational diabetes
+- Evidence of insulin resistance
+- Overweight
+
+The above is for information purpose only.
+As always, make sure you check with your own physician before adapting any of the above information into practice.
+
+Keshava Aithal
+
+---
+
+## Heart Talk #69
+
+### Why Does So Many People Die of Heart Attack
+
+For many decades, cardiovascular disease has remained the leading cause of death in the United States and elsewhere, in spite of amazing medical advances that have helped our ability to treat cardiovascular disease with life-saving devices, such as stents, implantable cardio converter defibrillators, advances in cardiac surgery and advancement in medications. We also understand now the importance of healthy diet, physical activity, good quality sleep and smoking cessation for cardiovascular health. In spite of that almost 900,000 people died in the United States from cardiovascular disease in 2024, which is more than the number of people killed by cancer and accidents combined.
+
+At present, we have clear understanding of the risk factors for heart disease. Study published in 2025 showed that more than 99% of the people who had a heart attack, stroke, or heart failure had at least one cardiovascular risk factor. It is clear that cardiovascular disease is preventable. Unfortunately, we failed to recognize and treat these risk factors earlier, such as hypertension, hyperlipidemia, diabetes, and kidney disease. We also know very well that most of the cardiovascular risk factors do not develop overnight and it takes often decades. However, when someone gets a heart attack or stroke, we often viewed that as a sudden or unexpected.
+
+In fact, at present, we have tools to predict the likelihood of a cardiovascular event way before this happens. In 2023, American College of cardiology and American Heart Association came up with the PREVENT EQUATION (Predicting Risk of Cardiovascular Disease Events). This calculator can predict risk of heart attack, stroke and heart failure over the next 10 or 30 years and this guidelines recommend physicians to use the PREVENT calculator for cardiovascular risk assessment for patient between the ages of 30 and 79 years.
+
+Many of these risk factors are silent. Many people may not even know that their blood pressure is high, blood sugar levels are abnormal or cholesterol levels are elevated. If untreated, the underlying cardiovascular disease progresses relentlessly without your knowledge until a catastrophic event occurs. Just like you start planning for your retirement decades in advance, your health requires the same early and proactive investment.
+
+### BENEFITS OF PREVENT CALCULATOR
+Risk estimation using the new calculator should begin earlier, at age 30 instead of 40. And for people in their 30s through 50s, it should include estimation of 30 year risk which this Calculator can do. For patients whose young age or female sex keep their 10 year risk low, knowing that the long-term risk is elevated can help to benefit lifestyle modifications.
+
+### PREVENT RISK CATEGORY RANGES
+Using the prevent calculator, the 10 year risk categories have been recalibrated
+- Low risk: less than 3%(previously less than 5%)
+- Borderline risk: 3% to less than 5% (previously 5% to less than 7.5%)
+- Intermediate risk: 5% less than 10% (previously 7.5% to less than 20%)
+- High risk: 10% or higher (previously 20% or higher)
+For primary prevention, the guidelines say lipid lowering therapy CAN BE considered for patients with borderline risk and SHOULD BE considered for those with intermediate risk
+
+### LDL CHOLESTEROL GOAL
+- Less than 100 mg/dL for patients without clinical cardiovascular disease who have low borderline, or intermediate risk based on PREVENT EQUATION
+- Less than 70 mg/dL for patients without clinical cardiovascular disease who have high risk based on PREVENT EQUATION and a small number of patients with clinical cardiovascular disease who do not have high risk
+- Less than 55 mg/dL for most patients with clinical cardiovascular disease.
+
+It is also true that sometimes, risk of developing cardiovascular disease is not entirely within a person's control. Take for example, family history, ethnicity, social, economical, and environmental factors, access to healthcare.-these are all coming to play.
+
+### Testing Lp(a once for everyone
+Elevated Lp(a) level is associated with increased cardiovascular risk. Patient with levels above 50 mg/dL have 1.4-fold increased risk of cardiovascular disease and the risk doubles at values at or above 100 mg/dL and quadruplets at or values at or above 180 mg/dL. Therefore, guidelines now recommends, Lp(a) testing for all patients. Repeating the test generally is not necessary because Lp(a) genetically determined and tend to remain stable overtime. Although Lp(a) lowering oral medications are not yet available, patient with elevated levels should have more intense LDL cholesterol lowering treatments and tighter control of additional risk factors. Trials testing the effects of lowering Lp(a) levels on the heart attacks and strokes are expected to be reported later this year. This result will surely bring another update later on this year or next year.
+
+### Apo B TESTING
+ApoB may help to predict future cardiovascular events and whether or not there is a potential for genetic abnormality. A patient's ApoB level represents their total number atherogenic lipoprotein particles, which include LDL, very low density, lipoprotein, and Lp(a) -and it is not affected by fasting.
+The guidelines suggests that apoB testing can help to identify residual Lipo protein-related risk in patient who have met their LDL cholesterol and non-HDL cholesterol goals. It can be particularly useful in those with cardiovascular disease, elevated triglycerides, type 2 diabetes or cardiovascular-kidney-metabolic syndrome
+
+### CORONARY ARTERY CALCIUM SCORING
+Coronary artery calcium typically emerges after age 40 in men, and after age 45 in women. So guideline suggests coronary artery calcium scoring -CAC scoring for intermediate risk or borderline risk patients with no prior cardiovascular disease. This test can help in decision about initiating lipid lowering medications or whether someone needs lipid lowering therapy or not. Even incidental findings of coronary calcium on a general chest CT is also a useful information.
+
+### RISK ENHANCING FACTORS
+This will add to the general risk factors. These risk enhancers include;
+- Female specific risks, including early menopause before the age of 45, polycystic ovary syndrome, adverse pregnancy outcomes such as hypertension during pregnancy, gestational diabetes, and preterm delivery
+- South Asian ethnicity like people from Indian subcontinent and also Filipinos
+- Other factors include family, history of early coronary artery disease, kidney disease, metabolic syndrome, elevated Lp(a) level, persistently, elevated LDL cholesterol or triglyceride, elevated high sensitivity, CRP
+- History of inflammatory disease like rheumatoid arthritis, lupus, and HIV
+
+### HIGH TRIGLYCERIDES
+For patient with high triglycerides, consulting a dietitian is crucial. Although fibrates like fenofibrate or Icosapent ethyl (Vascepa) can be added, statins are still the mainstay of drug therapy. Non-pharmacological therapy, including weight reduction, diet, and regular exercise are all helpful.
+
+Keshava Aithal
 
 This is not really a cardiac topic. However, diabetes and heart disease arc so closely associated and this topic is quite relevant to this group. Therefore,  I am sending you this.
 
