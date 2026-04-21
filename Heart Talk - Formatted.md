@@ -2521,3 +2521,171 @@ Keshava Aithal
 
 ---
 
+## Heart Talk #68
+
+### Can We Prevent Diabetes
+
+This is not really a cardiac topic. However, diabetes and heart disease arc so closely associated and this topic is quite relevant to this group. Therefore,  I am sending you this.
+
+Regulation of blood sugar is a tightly controlled process. Normally blood sugar is maintained in a narrow window between 70.-140 mg/dL
+
+## FASTING STATE
+In the fasting state, most glucose is produced by the liver- half from the breakdown of glycogen stores 
+( which is the main storage form of glucose in the body ) and  half from gluconeogenesis (This is the process by which body makes new glucose from non- carbohydrate source ). This glucose is used by the brain for fuel and by other tissues, such as gut and muscles. Production and uptake are balanced, maintaining fasting blood glucose level between 70.-90 mg/dL
+
+## FED STATE
+When we eat, carbohydrates are absorbed, which causes blood sugar to increase. This increase in the blood sugar triggers the release of insulin from the pancreas, which acts to limit the rise of blood sugar and maintain postmeal blood sugar levels in the normal range.
+
+Insulin acts at several sites in the body, predominantly at the tissue level, stimulating glucose uptake by muscles and fat. It also acts at the liver to stimulate glycogen formation and the storage of glucose.
+These two actions together lead to lower blood sugar. For individuals without diabetes, this is a very precise system which maintains balance between glucose levels below 140 mg/dL.
+
+### WHAT IS DIABETES
+Diabetes is a condition of high blood sugar or hyperglycemia, that result from either insulin deficiency or impaired insulin action, which is also called insulin resistance. 
+In general, there are two classes of diabetes
+-Type 1 diabetes, which is due to insulin deficiency. There is genetic susceptibility to autoimmune disease in this.
+-type 2 diabetes, which is the result of insulin resistance
+
+## TYPE 2 DIABETES
+Unlike type 1 diabetes, type 2 diabetes does not involve a problem with insulin production. The problem here is with insulin action. These patients often have high insulin levels, but suffer from insulin resistance, meaning the tissues are unable to “SEE” the insulin, resulting in a relative insulin deficiency.
+Type 2 diabetes is also known as adult onset diabetes, as it tends to present in overweight adults. There is also a genetic component, as it tends to run in families. If one or both parents has type 2 diabetes, children are more than four times as likely to develop type.2 diabetes. 
+
+## INSULIN RESISTANCE DEVELOPS FIRST
+Patient first develops insulin resistance, requiring higher levels of insulin to maintain normal blood sugars. Initially pancreas is able to keep up with insulin production, and insulin levels are elevated. However, with time, pancreas fails and patients are unable to maintain normal blood sugar without medication.
+
+### RISK FACTORS FOR TYPE 2 DIABETES
+GENETICS: having a first-degree relative with diabetes is one risk factor
+ETHNICITY: Type 2 diabetes is more common in certain ethnicities, such as
+African-Americans
+Latinos
+Native Americans
+South east Asians(  INDIAN SUBCONTINENT)
+Pacific islanders
+
+## HISTORY OF GESTATIONAL DIABETES( Diabetes during pregnancy) 
+Women with the history of gestational diabetes are at higher risk of developing type 2 diabetes
+
+CERTAIN COMORBIDITIES
+Such as:-
+Cardiovascular disease
+Hypertension
+Hyperlipidemia
+Conditions associated with insulin resistance or associated with type 2 diabetes. These are.:
+-polycystic ovarian syndrome
+-Acanthosis Nigricans in which there is skin darkening on the neck and axilla due to high insulin levels.
+
+## OBESITY AND PHYSICAL INACTIVITY
+Obesity and physical inactivity increase the risk of developing type 2 diabetes. An elevated BMI is associated with a significant increase in the risk of diabetes.
+	⁃	BMI of 25 kg/m² or more for non-Asian patients
+	⁃	BMI of 23 kg/ m2 or more for Asian patients
+
+## WHO SHOULD BE SCREENED FOR DIABETES
+Most guidelines recommend screening ;
+	⁃	All patience over the age of 35
+	⁃	All overweight patients
+	⁃	Adults of any age who have risk factors for type 2 diabetes, such as high blood pressure, high cholesterol, or a family history of the disease
+	⁃	Women who have had gestational diabetes( screened every three years )
+	⁃	Patient with HIV
+
+## MAKING THE DIAGNOSIS
+	1.	FASTING BLOOD SUGAR LEVELS- Blood sugar level after eight hours of fasting and if this is greater than or equal to 126 mg/dL
+	2.	ORAL GLUCOSE TOLERENCE TEST- For  this, patient is given a beverage containing 75 g of glucose. Then blood sugar is measured two hours after. A reading of greater than 200 mg/dL is diagnostic of diabetes.
+In both of these cases, the abnormal results must be confirmed on repeat testing. 
+Not all patients have both elevated fasting and elevated postmeal blood sugars. Some may have just high fasting blood sugar, while others may just have high postmeal blood sugars. In these cases, we may miss the diagnosis of diabetes if we use the wrong test. In this situations, using hemoglobin A1c make the diagnosis more easily.
+3  HEMOGLOBIN A1c-A level of 6.5% or greater suggests diabetes. This test does not need fasting. 
+
+## WHAT IS PRE-DIABETES
+Pre-diabetes is a condition where- in blood sugar falls between normal and diabetes
+	⁃	If patients have fasting blood sugar between 100 and 126 mg/dL, they have impaired fasting glucose. 
+	⁃	If post meal blood sugar is between 140 and 200 mg/dL, they are considered to have impaired glucose tolerance.
+	⁃	Patients with a hemoglobin A1c between 5.6 and 6.5%
+	⁃	Patients with an A1c between 5.5 and 6% have a 10 to 20% prisk of developing diabetes over the next five years. 
+	⁃	If hemoglobin A1c is between 6 and 6.5%, they have a 25 to 50% risk of developing diabetes.
+
+## EARLY INTERVENTION
+If pre-diabetes is identified, there are some interventions that have been shown to prevent progression to type 2 diabetes
+	1.	Lifestyle interventions: 
+       - A 7% decrease in the body               
+          weight, primarily through diet
+  2. 150 minutes of physical activity weekly, that is at least 30 minutes daily for five days a week.  Physical activity is defined as an activity equal in intensity to a brisk walk.
+
+## MEDICATIONS
+1 METFORMIN: According DIABETES PREVENTION PROGRAM, a medication called metformin helps to improve insulin sensitivity and results in a 30-35% reduction in the incidence of diabetes. For patients with BMI of greater than 35, metformin reduces the risk of development diabetes by 50-60%
+
+ACARBOSE,: This medication blocks the absorption of carbohydrate from the small intestine and it has been shown to decrease the development of diabetes by about 25% . However, this medication is poorly tolerated and has not been used for this purpose.
+
+PIOGLITAZONE ( ACTOSE ): This medication helps to improve insulin resistance and one study in patient with impaired fasting blood glucose showed a 72% decrease in the development of diabetes. However, significant weight gain can occur with this medication and therefore it has not been used regularly for prevention of diabetes. 
+
+## GLP-1 RECEPTOR AGONISTS: 
+These newer drugs used for weight reduction and treatment of diabetes, often can be useful to prevent diabetes. However, these are expensive and are not used routinely for this purpose.
+
+In summary, primary intervention for patients with pre-diabetes should be a lifestyle intervention. Patients should be encouraged  to achieve a weight loss of 7% or more. Daily exercise should be encouraged with 30 minutes of activity at least five days a week
+
+For patients at high risk of developing diabetes, those with any of the following characteristics, METFORMIN can be considered. 
+	⁃	 History of gestational diabetes
+	⁃	Evidence of insulin resistance 
+	⁃	Overweight 
+
+The above is for information purpose only. 
+As always, make sure you check with your own physician before adapting any of the above information into practice.
+
+Keshava Aithal
+ಅಂಕ 8 Double 0
+---
+
+## Heart Talk #69
+
+### Why Does So Many People Die of Heart Attack 
+For many decades, cardiovascular disease has remained the leading cause of death in the United States and elsewhere, in spite of amazing medical advances that have helped our ability to treat cardiovascular disease with life-saving devices, such as stents, implantable cardio converter defibrillators ,advances in cardiac surgery and advancement in medications.  We also understand now the importance of healthy diet, physical activity, good quality sleep and smoking cessation for cardiovascular health. In spite of that almost 900,000 people died in the United States from cardiovascular disease in 2024, which is more than the number of people killed by cancer and accidents combined. 
+
+At present, we have clear understanding of the risk factors for heart disease. Study published in 2025 showed that more than 99% of the people who had a heart attack, stroke, or heart failure had at least one cardiovascular risk factor. It is clear that cardiovascular disease is preventable. Unfortunately, we failed to recognize and treat these risk factors earlier, such as hypertension, hyperlipidemia, diabetes, and kidney disease. We also know very well that most of the cardiovascular risk factors do not develop overnight and it takes often decades. However, when someone gets a heart attack or stroke, we often viewed that as a sudden or unexpected.
+
+In fact, at present, we have tools to predict the likelihood of a cardiovascular event way before this happens. In 2023, American College of cardiology and American Heart Association came up with the PREVENT EQUATION  ( Predicting Risk  of Cardiovascular Disease Events ). This calculator can predict risk of heart attack, stroke and heart failure over the next 10 or 30 years and this guidelines recommend physicians to use the PREVENT calculator for cardiovascular risk assessment for patient between the ages of 30 and 79 years. 
+
+Many of these risk factors are silent.  Many people may not even know that their blood pressure is high, blood sugar levels are abnormal or cholesterol levels are elevated. If untreated, the underlying cardiovascular disease progresses relentlessly without your knowledge until a catastrophic event occurs . Just like you start planning for your retirement decades in advance, your health requires the same early and proactive investment.  
+
+BENEFITS OF PREVENT CALCULATOR
+Risk estimation using the new calculator should begin earlier, at age 30 instead of 40. And for people in their 30s through 50s, it should include estimation of 30 year risk which this Calculator can do. For patients whose young age or female sex keep their 10 year risk low, knowing that the long-term risk is elevated can help to benefit lifestyle modifications.
+
+PREVENT RISK CATEGORY RANGES
+Using the prevent calculator, the 10 year risk categories have been recalibrated
+	⁃	Low risk: less than 3%( previously less than 5%)
+	⁃	Borderline risk: 3% to less than 5% (previously 5% to less than 7.5%)
+	⁃	Intermediate risk: 5% less than 10% (previously 7.5% to  less than 20%)
+	⁃	High risk: 10% or higher ( previously 20% or higher) 
+For primary prevention, the guidelines say lipid lowering therapy CAN BE considered for patients with borderline risk and SHOULD  BE considered for those with intermediate risk
+
+LDL CHOLESTEROL GOAL
+	⁃	Less than 100 mg/dL for patients without clinical cardiovascular disease who have low borderline, or intermediate risk based on PREVENT EQUATION
+	⁃	Less than 70 mg/dL for patients without clinical cardiovascular disease who have high risk based on PREVENT EQUATION and a small number of patients with clinical cardiovascular disease who do not have high risk
+	⁃	Less than 55 mg/dL for most patients with clinical cardiovascular disease. 
+
+It is also true that sometimes, risk of developing cardiovascular disease is not entirely within a person’s control. Take for example, family history, ethnicity, social, economical, and environmental factors, access to healthcare.-these are all coming to play.
+
+Testing Lp(a once for everyone
+Elevated Lp(a) level is associated with increased cardiovascular risk. Patient with levels above 50 mg/dL have 1.4 - fold increased risk of cardiovascular disease and the risk doubles at values at or above 100 mg/dL and quadruplets at or values at or above 180 mg/dL. Therefore, guidelines now recommends, Lp(a) testing for all patients. Repeating the test generally is not necessary because Lp(a) genetically determined and tend to remain stable overtime. Although Lp(a) lowering oral medications are not yet available, patient with elevated levels should have more intense LDL cholesterol lowering treatments and tighter control of additional risk factors. Trials testing the effects of lowering Lp(a) levels on the heart attacks and strokes are expected to be reported later this year. This result will surely bring another update later on this year or next year.  
+
+Apo B TESTING
+ApoB may help to predict future cardiovascular events and whether or not there is a potential for genetic abnormality. A patient’s ApoB level represents their total number atherogenic  lipoprotein particles, which include LDL, very low density, lipoprotein, and Lp(a) -and it is not affected by fasting. 
+The guidelines suggests  that apoB testing can help to identify residual Lipo protein-related risk in patient who have met their LDL cholesterol and non-HDL cholesterol goals. It can be particularly useful in those with cardiovascular disease, elevated triglycerides, type 2 diabetes or cardiovascular-kidney-metabolic syndrome
+
+CORONARY ARTERY CALCIUM SCORING
+Coronary artery calcium typically emerges after age 40 in men, and after age 45 in women. So guideline suggests coronary artery calcium scoring -CAC scoring for intermediate risk or borderline risk patients with no prior cardiovascular disease. This test can help in decision about initiating lipid lowering  medications or whether someone needs lipid lowering therapy or not. Even incidental findings of coronary calcium on a general chest CT is also a useful information.
+
+RISK ENHANCING FACTORS
+This will add to the general risk factors. These risk enhancers include;
+	⁃	Female specific risks, including early menopause before the age of 45, polycystic ovary syndrome, adverse pregnancy outcomes such as hypertension during pregnancy, gestational diabetes, and preterm delivery
+	⁃	South Asian ethnicity like people from Indian subcontinent and
+	⁃	 also Filipinos
+	⁃	Other factors include family, history of early coronary artery disease, kidney disease , metabolic syndrome, elevated Lp(a) level, persistently, elevated LDL cholesterol or triglyceride, elevated high sensitivity, CRP
+	⁃	History of inflammatory disease like rheumatoid arthritis, lupus, and HIV
+
+HIGH TRIGLYCERIDES
+For patient with high triglycerides, consulting a dietitian is crucial. Although fibrates like fenofibrate or Icosapent ethyl ( Vascepa ) can be added, statins are still the mainstay of drug therapy. Non-pharmacological  therapy, including weight reduction, diet, and regular exercise are all helpful. 
+
+INFORMATION ON DIETARY SUPPLEMENTS
+For the first time, the guidelines do not recommend the use of dietary supplements, such as non-prescription fish oil, to lower LDL cholesterol or triglyceride levels in people with atherosclerotic  cardiovascular disease. According to the guidelines, there is evidence of absence of benefits with these supplements.
+
+As usual, the above is for information purpose only and individuals should consult their  own physician about their own situation.
+
+Keshava Aithal
+ಅಂಕ 8 Double 0
