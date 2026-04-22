@@ -25,7 +25,7 @@ const GLOSSARY_PATH = path.join(__dirname, '../glossary.html');
 const CSS_PATH = path.join(__dirname, '../book.css');
 
 // Total number of chapters
-const TOTAL_CHAPTERS = 66;
+const TOTAL_CHAPTERS = 70;
 
 // PDF options
 const PDF_OPTIONS = {
